@@ -1,17 +1,17 @@
-<div class="container mx-auto p-4">
+<div class="container mx-auto p-4 flex flex-col h-screen">
   <div class="router-panel mb-4 flex justify-center">
-    <a class="mr-8" [routerLink]="['/verbs']" routerLinkActive="active-link">Verbs</a>
+    <a class="mr-8" [routerLink]="['/verb']" routerLinkActive="active-link">Verbs</a>
     <a [routerLink]="['/game']" routerLinkActive="active-link">Game</a>
   </div>
-  <div class="content flex">
+  <div class="content mb-4 overflow-y-auto flex flex-grow">
     <div class="left-panel">
       <app-verbs-list></app-verbs-list>
     </div>
-    <div class="page-content">
+    <div class="page-content flex-grow">
       <router-outlet></router-outlet>
     </div>
   </div>
-  <div class="footer">
+  <div class="footer h-8">
     This is the best app ever
   </div>
 </div>

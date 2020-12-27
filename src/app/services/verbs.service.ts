@@ -32,6 +32,10 @@ import { verbsZ } from '../system/db/verbsZ';
 export class VerbsService {
 
   verbs = [];
+  verbKeys = [];
+  currentVerbKey = '';
+  currentVerb = {}; // todo add type here
+
   constructor() {
     this.verbs = [
       ...verbsA,
@@ -61,5 +65,13 @@ export class VerbsService {
       ...verbsY,
       ...verbsZ,
     ];
+    this.verbKeys = this.verbs.map((verb) => Object.keys(verb)[0]);
+    this.updateCurrentVerb('avoir');
   }
+
+  public updateCurrentVerb(key: string): void {
+    this.currentVerbKey = key;
+    this.currentVerb = this.verbs.find((verb) => Object.keys(verb)[0] === key);
+  }
+
 }

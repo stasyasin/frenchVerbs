@@ -8,7 +8,7 @@ import { MatInputModule } from '@angular/material/input';
 import { MatButtonModule } from '@angular/material/button';
 import { FormsModule } from '@angular/forms';
 import { NotFoundComponent } from './components/not-found/not-found.component';
-import { VerbsComponent } from './components/verbs/verbs.component';
+import { VerbComponent } from './components/verb/verb.component';
 import { GameComponent } from './components/game/game.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { VerbsListComponent } from './components/verbs-list/verbs-list.component';
@@ -17,7 +17,7 @@ import { VerbsListComponent } from './components/verbs-list/verbs-list.component
   declarations: [
     AppComponent,
     NotFoundComponent,
-    VerbsComponent,
+    VerbComponent,
     GameComponent,
     VerbsListComponent
   ],

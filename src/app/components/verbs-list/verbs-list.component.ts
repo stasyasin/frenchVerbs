@@ -8,9 +8,13 @@ import { VerbsService } from '../../services/verbs.service';
 })
 export class VerbsListComponent implements OnInit {
 
-  constructor(public verbsService: VerbsService) { }
+  constructor(public verbsService: VerbsService) {
+  }
 
   ngOnInit(): void {
   }
 
+  selectVerb(verb: string): void {
+    this.verbsService.updateCurrentVerb(verb);
+  }
 }

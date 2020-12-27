@@ -1,2 +1,7 @@
-<p>verbs-list works!</p>
-{{verbsService.verbs.length}}
+<div class="verb-container">
+  <div class="verb" *ngFor="let verb of verbsService.verbKeys"
+       [class.active]="verb === verbsService.currentVerbKey"
+       (click)="selectVerb(verb)">
+    {{verb}}
+  </div>
+</div>

@@ -7,13 +7,23 @@ import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
 import { MatButtonModule } from '@angular/material/button';
 import { FormsModule } from '@angular/forms';
+import { NotFoundComponent } from './components/not-found/not-found.component';
+import { VerbsComponent } from './components/verbs/verbs.component';
+import { GameComponent } from './components/game/game.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { VerbsListComponent } from './components/verbs-list/verbs-list.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    NotFoundComponent,
+    VerbsComponent,
+    GameComponent,
+    VerbsListComponent
   ],
   imports: [
     BrowserModule,
+    BrowserAnimationsModule,
     AppRoutingModule,
     FormsModule,
     MatInputModule,

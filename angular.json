@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "FrenchVerbs"
+  "defaultProject": "FrenchVerbs",
+  "cli": {
+    "analytics": "61de81c7-9804-45d2-acf0-54f96161390c"
+  }
 }

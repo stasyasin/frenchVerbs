@@ -5,85 +5,85 @@ export const verbsQ = [
       indicatif: {
         present: {
           je: 'je qualifie',
-          tu: ' qualifies',
-          il: ' qualifie',
-          nous: ' qualifions',
-          vous: ' qualifiez',
-          ils: ' qualifient'
+          tu: 'tu qualifies',
+          il: 'il qualifie',
+          nous: 'nous qualifions',
+          vous: 'vous qualifiez',
+          ils: 'ils qualifient'
         },
         passeCompose: {
           je: 'j\'ai qualifié',
-          tu: ' as qualifié',
-          il: ' a qualifié',
-          nous: ' avons qualifié',
-          vous: ' avez qualifié',
-          ils: ' ont qualifié'
+          tu: 'tu as qualifié',
+          il: 'il a qualifié',
+          nous: 'nous avons qualifié',
+          vous: 'vous avez qualifié',
+          ils: 'ils ont qualifié'
         },
         imparfait: {
           je: 'je qualifiais',
-          tu: ' qualifiais',
-          il: ' qualifiait',
-          nous: ' qualifiions',
-          vous: ' qualifiiez',
-          ils: ' qualifiaient'
+          tu: 'tu qualifiais',
+          il: 'il qualifiait',
+          nous: 'nous qualifiions',
+          vous: 'vous qualifiiez',
+          ils: 'ils qualifiaient'
         },
         plusQueParfait: {
           je: 'j\'avais qualifié',
-          tu: ' avais qualifié',
-          il: ' avait qualifié',
-          nous: ' avions qualifié',
-          vous: ' aviez qualifié',
-          ils: ' avaient qualifié'
+          tu: 'tu avais qualifié',
+          il: 'il avait qualifié',
+          nous: 'nous avions qualifié',
+          vous: 'vous aviez qualifié',
+          ils: 'ils avaient qualifié'
         },
         passeSimple: {
           je: 'je qualifiai',
-          tu: ' qualifias',
-          il: ' qualifia',
-          nous: ' qualifiâmes',
-          vous: ' qualifiâtes',
-          ils: ' qualifièrent'
+          tu: 'tu qualifias',
+          il: 'il qualifia',
+          nous: 'nous qualifiâmes',
+          vous: 'vous qualifiâtes',
+          ils: 'ils qualifièrent'
         },
         passeAnterieur: {
           je: 'j\'eus qualifié',
-          tu: ' eus qualifié',
-          il: ' eut qualifié',
-          nous: ' eûmes qualifié',
-          vous: ' eûtes qualifié',
-          ils: ' eurent qualifié'
+          tu: 'tu eus qualifié',
+          il: 'il eut qualifié',
+          nous: 'nous eûmes qualifié',
+          vous: 'vous eûtes qualifié',
+          ils: 'ils eurent qualifié'
         },
         futurSimple: {
           je: 'je qualifierai',
-          tu: ' qualifieras',
-          il: ' qualifiera',
-          nous: ' qualifierons',
-          vous: ' qualifierez',
-          ils: ' qualifieront'
+          tu: 'tu qualifieras',
+          il: 'il qualifiera',
+          nous: 'nous qualifierons',
+          vous: 'vous qualifierez',
+          ils: 'ils qualifieront'
         },
         futurAnterieur: {
           je: 'j\'aurai qualifié',
-          tu: ' auras qualifié',
-          il: ' aura qualifié',
-          nous: ' aurons qualifié',
-          vous: ' aurez qualifié',
-          ils: ' auront qualifié'
+          tu: 'tu auras qualifié',
+          il: 'il aura qualifié',
+          nous: 'nous aurons qualifié',
+          vous: 'vous aurez qualifié',
+          ils: 'ils auront qualifié'
         }
       },
       conditionnel: {
         present: {
           je: 'je qualifierais',
-          tu: ' qualifierais',
-          il: ' qualifierait',
-          nous: ' qualifierions',
-          vous: ' qualifieriez',
-          ils: ' qualifieraient'
+          tu: 'tu qualifierais',
+          il: 'il qualifierait',
+          nous: 'nous qualifierions',
+          vous: 'vous qualifieriez',
+          ils: 'ils qualifieraient'
         },
         passe: {
           je: 'j\'aurais qualifié',
-          tu: ' aurais qualifié',
-          il: ' aurait qualifié',
-          nous: ' aurions qualifié',
-          vous: ' auriez qualifié',
-          ils: ' auraient qualifié'
+          tu: 'tu aurais qualifié',
+          il: 'il aurait qualifié',
+          nous: 'nous aurions qualifié',
+          vous: 'vous auriez qualifié',
+          ils: 'ils auraient qualifié'
         }
       },
       subjonctif: {
@@ -128,8 +128,8 @@ export const verbsQ = [
         },
         passe: {
           je: 'aie qualifié',
-          nous: 'ayons qualifié',
-          vous: 'ayez qualifié'
+          nous: 'nous ayons qualifié',
+          vous: 'vous ayez qualifié'
         }
       },
       infinitif: {
@@ -146,7 +146,7 @@ export const verbsQ = [
         },
         passe: {
           je: 'qualifié',
-          nous: 'ayant qualifié'
+          nous: 'nous ayant qualifié'
         }
       },
       gerondif: {
@@ -164,85 +164,85 @@ export const verbsQ = [
       indicatif: {
         present: {
           je: 'je quémande',
-          tu: ' quémandes',
-          il: ' quémande',
-          nous: ' quémandons',
-          vous: ' quémandez',
-          ils: ' quémandent'
+          tu: 'tu quémandes',
+          il: 'il quémande',
+          nous: 'nous quémandons',
+          vous: 'vous quémandez',
+          ils: 'ils quémandent'
         },
         passeCompose: {
           je: 'j\'ai quémandé',
-          tu: ' as quémandé',
-          il: ' a quémandé',
-          nous: ' avons quémandé',
-          vous: ' avez quémandé',
-          ils: ' ont quémandé'
+          tu: 'tu as quémandé',
+          il: 'il a quémandé',
+          nous: 'nous avons quémandé',
+          vous: 'vous avez quémandé',
+          ils: 'ils ont quémandé'
         },
         imparfait: {
           je: 'je quémandais',
-          tu: ' quémandais',
-          il: ' quémandait',
-          nous: ' quémandions',
-          vous: ' quémandiez',
-          ils: ' quémandaient'
+          tu: 'tu quémandais',
+          il: 'il quémandait',
+          nous: 'nous quémandions',
+          vous: 'vous quémandiez',
+          ils: 'ils quémandaient'
         },
         plusQueParfait: {
           je: 'j\'avais quémandé',
-          tu: ' avais quémandé',
-          il: ' avait quémandé',
-          nous: ' avions quémandé',
-          vous: ' aviez quémandé',
-          ils: ' avaient quémandé'
+          tu: 'tu avais quémandé',
+          il: 'il avait quémandé',
+          nous: 'nous avions quémandé',
+          vous: 'vous aviez quémandé',
+          ils: 'ils avaient quémandé'
         },
         passeSimple: {
           je: 'je quémandai',
-          tu: ' quémandas',
-          il: ' quémanda',
-          nous: ' quémandâmes',
-          vous: ' quémandâtes',
-          ils: ' quémandèrent'
+          tu: 'tu quémandas',
+          il: 'il quémanda',
+          nous: 'nous quémandâmes',
+          vous: 'vous quémandâtes',
+          ils: 'ils quémandèrent'
         },
         passeAnterieur: {
           je: 'j\'eus quémandé',
-          tu: ' eus quémandé',
-          il: ' eut quémandé',
-          nous: ' eûmes quémandé',
-          vous: ' eûtes quémandé',
-          ils: ' eurent quémandé'
+          tu: 'tu eus quémandé',
+          il: 'il eut quémandé',
+          nous: 'nous eûmes quémandé',
+          vous: 'vous eûtes quémandé',
+          ils: 'ils eurent quémandé'
         },
         futurSimple: {
           je: 'je quémanderai',
-          tu: ' quémanderas',
-          il: ' quémandera',
-          nous: ' quémanderons',
-          vous: ' quémanderez',
-          ils: ' quémanderont'
+          tu: 'tu quémanderas',
+          il: 'il quémandera',
+          nous: 'nous quémanderons',
+          vous: 'vous quémanderez',
+          ils: 'ils quémanderont'
         },
         futurAnterieur: {
           je: 'j\'aurai quémandé',
-          tu: ' auras quémandé',
-          il: ' aura quémandé',
-          nous: ' aurons quémandé',
-          vous: ' aurez quémandé',
-          ils: ' auront quémandé'
+          tu: 'tu auras quémandé',
+          il: 'il aura quémandé',
+          nous: 'nous aurons quémandé',
+          vous: 'vous aurez quémandé',
+          ils: 'ils auront quémandé'
         }
       },
       conditionnel: {
         present: {
           je: 'je quémanderais',
-          tu: ' quémanderais',
-          il: ' quémanderait',
-          nous: ' quémanderions',
-          vous: ' quémanderiez',
-          ils: ' quémanderaient'
+          tu: 'tu quémanderais',
+          il: 'il quémanderait',
+          nous: 'nous quémanderions',
+          vous: 'vous quémanderiez',
+          ils: 'ils quémanderaient'
         },
         passe: {
           je: 'j\'aurais quémandé',
-          tu: ' aurais quémandé',
-          il: ' aurait quémandé',
-          nous: ' aurions quémandé',
-          vous: ' auriez quémandé',
-          ils: ' auraient quémandé'
+          tu: 'tu aurais quémandé',
+          il: 'il aurait quémandé',
+          nous: 'nous aurions quémandé',
+          vous: 'vous auriez quémandé',
+          ils: 'ils auraient quémandé'
         }
       },
       subjonctif: {
@@ -287,8 +287,8 @@ export const verbsQ = [
         },
         passe: {
           je: 'aie quémandé',
-          nous: 'ayons quémandé',
-          vous: 'ayez quémandé'
+          nous: 'nous ayons quémandé',
+          vous: 'vous ayez quémandé'
         }
       },
       infinitif: {
@@ -305,7 +305,7 @@ export const verbsQ = [
         },
         passe: {
           je: 'quémandé',
-          nous: 'ayant quémandé'
+          nous: 'nous ayant quémandé'
         }
       },
       gerondif: {
@@ -479,85 +479,85 @@ export const verbsQ = [
       indicatif: {
         present: {
           je: 'je questionne',
-          tu: ' questionnes',
-          il: ' questionne',
-          nous: ' questionnons',
-          vous: ' questionnez',
-          ils: ' questionnent'
+          tu: 'tu questionnes',
+          il: 'il questionne',
+          nous: 'nous questionnons',
+          vous: 'vous questionnez',
+          ils: 'ils questionnent'
         },
         passeCompose: {
           je: 'j\'ai questionné',
-          tu: ' as questionné',
-          il: ' a questionné',
-          nous: ' avons questionné',
-          vous: ' avez questionné',
-          ils: ' ont questionné'
+          tu: 'tu as questionné',
+          il: 'il a questionné',
+          nous: 'nous avons questionné',
+          vous: 'vous avez questionné',
+          ils: 'ils ont questionné'
         },
         imparfait: {
           je: 'je questionnais',
-          tu: ' questionnais',
-          il: ' questionnait',
-          nous: ' questionnions',
-          vous: ' questionniez',
-          ils: ' questionnaient'
+          tu: 'tu questionnais',
+          il: 'il questionnait',
+          nous: 'nous questionnions',
+          vous: 'vous questionniez',
+          ils: 'ils questionnaient'
         },
         plusQueParfait: {
           je: 'j\'avais questionné',
-          tu: ' avais questionné',
-          il: ' avait questionné',
-          nous: ' avions questionné',
-          vous: ' aviez questionné',
-          ils: ' avaient questionné'
+          tu: 'tu avais questionné',
+          il: 'il avait questionné',
+          nous: 'nous avions questionné',
+          vous: 'vous aviez questionné',
+          ils: 'ils avaient questionné'
         },
         passeSimple: {
           je: 'je questionnai',
-          tu: ' questionnas',
-          il: ' questionna',
-          nous: ' questionnâmes',
-          vous: ' questionnâtes',
-          ils: ' questionnèrent'
+          tu: 'tu questionnas',
+          il: 'il questionna',
+          nous: 'nous questionnâmes',
+          vous: 'vous questionnâtes',
+          ils: 'ils questionnèrent'
         },
         passeAnterieur: {
           je: 'j\'eus questionné',
-          tu: ' eus questionné',
-          il: ' eut questionné',
-          nous: ' eûmes questionné',
-          vous: ' eûtes questionné',
-          ils: ' eurent questionné'
+          tu: 'tu eus questionné',
+          il: 'il eut questionné',
+          nous: 'nous eûmes questionné',
+          vous: 'vous eûtes questionné',
+          ils: 'ils eurent questionné'
         },
         futurSimple: {
           je: 'je questionnerai',
-          tu: ' questionneras',
-          il: ' questionnera',
-          nous: ' questionnerons',
-          vous: ' questionnerez',
-          ils: ' questionneront'
+          tu: 'tu questionneras',
+          il: 'il questionnera',
+          nous: 'nous questionnerons',
+          vous: 'vous questionnerez',
+          ils: 'ils questionneront'
         },
         futurAnterieur: {
           je: 'j\'aurai questionné',
-          tu: ' auras questionné',
-          il: ' aura questionné',
-          nous: ' aurons questionné',
-          vous: ' aurez questionné',
-          ils: ' auront questionné'
+          tu: 'tu auras questionné',
+          il: 'il aura questionné',
+          nous: 'nous aurons questionné',
+          vous: 'vous aurez questionné',
+          ils: 'ils auront questionné'
         }
       },
       conditionnel: {
         present: {
           je: 'je questionnerais',
-          tu: ' questionnerais',
-          il: ' questionnerait',
-          nous: ' questionnerions',
-          vous: ' questionneriez',
-          ils: ' questionneraient'
+          tu: 'tu questionnerais',
+          il: 'il questionnerait',
+          nous: 'nous questionnerions',
+          vous: 'vous questionneriez',
+          ils: 'ils questionneraient'
         },
         passe: {
           je: 'j\'aurais questionné',
-          tu: ' aurais questionné',
-          il: ' aurait questionné',
-          nous: ' aurions questionné',
-          vous: ' auriez questionné',
-          ils: ' auraient questionné'
+          tu: 'tu aurais questionné',
+          il: 'il aurait questionné',
+          nous: 'nous aurions questionné',
+          vous: 'vous auriez questionné',
+          ils: 'ils auraient questionné'
         }
       },
       subjonctif: {
@@ -602,8 +602,8 @@ export const verbsQ = [
         },
         passe: {
           je: 'aie questionné',
-          nous: 'ayons questionné',
-          vous: 'ayez questionné'
+          nous: 'nous ayons questionné',
+          vous: 'vous ayez questionné'
         }
       },
       infinitif: {
@@ -620,7 +620,7 @@ export const verbsQ = [
         },
         passe: {
           je: 'questionné',
-          nous: 'ayant questionné'
+          nous: 'nous ayant questionné'
         }
       },
       gerondif: {
@@ -638,85 +638,85 @@ export const verbsQ = [
       indicatif: {
         present: {
           je: 'je quête',
-          tu: ' quêtes',
-          il: ' quête',
-          nous: ' quêtons',
-          vous: ' quêtez',
-          ils: ' quêtent'
+          tu: 'tu quêtes',
+          il: 'il quête',
+          nous: 'nous quêtons',
+          vous: 'vous quêtez',
+          ils: 'ils quêtent'
         },
         passeCompose: {
           je: 'j\'ai quêté',
-          tu: ' as quêté',
-          il: ' a quêté',
-          nous: ' avons quêté',
-          vous: ' avez quêté',
-          ils: ' ont quêté'
+          tu: 'tu as quêté',
+          il: 'il a quêté',
+          nous: 'nous avons quêté',
+          vous: 'vous avez quêté',
+          ils: 'ils ont quêté'
         },
         imparfait: {
           je: 'je quêtais',
-          tu: ' quêtais',
-          il: ' quêtait',
-          nous: ' quêtions',
-          vous: ' quêtiez',
-          ils: ' quêtaient'
+          tu: 'tu quêtais',
+          il: 'il quêtait',
+          nous: 'nous quêtions',
+          vous: 'vous quêtiez',
+          ils: 'ils quêtaient'
         },
         plusQueParfait: {
           je: 'j\'avais quêté',
-          tu: ' avais quêté',
-          il: ' avait quêté',
-          nous: ' avions quêté',
-          vous: ' aviez quêté',
-          ils: ' avaient quêté'
+          tu: 'tu avais quêté',
+          il: 'il avait quêté',
+          nous: 'nous avions quêté',
+          vous: 'vous aviez quêté',
+          ils: 'ils avaient quêté'
         },
         passeSimple: {
           je: 'je quêtai',
-          tu: ' quêtas',
-          il: ' quêta',
-          nous: ' quêtâmes',
-          vous: ' quêtâtes',
-          ils: ' quêtèrent'
+          tu: 'tu quêtas',
+          il: 'il quêta',
+          nous: 'nous quêtâmes',
+          vous: 'vous quêtâtes',
+          ils: 'ils quêtèrent'
         },
         passeAnterieur: {
           je: 'j\'eus quêté',
-          tu: ' eus quêté',
-          il: ' eut quêté',
-          nous: ' eûmes quêté',
-          vous: ' eûtes quêté',
-          ils: ' eurent quêté'
+          tu: 'tu eus quêté',
+          il: 'il eut quêté',
+          nous: 'nous eûmes quêté',
+          vous: 'vous eûtes quêté',
+          ils: 'ils eurent quêté'
         },
         futurSimple: {
           je: 'je quêterai',
-          tu: ' quêteras',
-          il: ' quêtera',
-          nous: ' quêterons',
-          vous: ' quêterez',
-          ils: ' quêteront'
+          tu: 'tu quêteras',
+          il: 'il quêtera',
+          nous: 'nous quêterons',
+          vous: 'vous quêterez',
+          ils: 'ils quêteront'
         },
         futurAnterieur: {
           je: 'j\'aurai quêté',
-          tu: ' auras quêté',
-          il: ' aura quêté',
-          nous: ' aurons quêté',
-          vous: ' aurez quêté',
-          ils: ' auront quêté'
+          tu: 'tu auras quêté',
+          il: 'il aura quêté',
+          nous: 'nous aurons quêté',
+          vous: 'vous aurez quêté',
+          ils: 'ils auront quêté'
         }
       },
       conditionnel: {
         present: {
           je: 'je quêterais',
-          tu: ' quêterais',
-          il: ' quêterait',
-          nous: ' quêterions',
-          vous: ' quêteriez',
-          ils: ' quêteraient'
+          tu: 'tu quêterais',
+          il: 'il quêterait',
+          nous: 'nous quêterions',
+          vous: 'vous quêteriez',
+          ils: 'ils quêteraient'
         },
         passe: {
           je: 'j\'aurais quêté',
-          tu: ' aurais quêté',
-          il: ' aurait quêté',
-          nous: ' aurions quêté',
-          vous: ' auriez quêté',
-          ils: ' auraient quêté'
+          tu: 'tu aurais quêté',
+          il: 'il aurait quêté',
+          nous: 'nous aurions quêté',
+          vous: 'vous auriez quêté',
+          ils: 'ils auraient quêté'
         }
       },
       subjonctif: {
@@ -761,8 +761,8 @@ export const verbsQ = [
         },
         passe: {
           je: 'aie quêté',
-          nous: 'ayons quêté',
-          vous: 'ayez quêté'
+          nous: 'nous ayons quêté',
+          vous: 'vous ayez quêté'
         }
       },
       infinitif: {
@@ -779,7 +779,7 @@ export const verbsQ = [
         },
         passe: {
           je: 'quêté',
-          nous: 'ayant quêté'
+          nous: 'nous ayant quêté'
         }
       },
       gerondif: {
@@ -797,85 +797,85 @@ export const verbsQ = [
       indicatif: {
         present: {
           je: 'je quitte',
-          tu: ' quittes',
-          il: ' quitte',
-          nous: ' quittons',
-          vous: ' quittez',
-          ils: ' quittent'
+          tu: 'tu quittes',
+          il: 'il quitte',
+          nous: 'nous quittons',
+          vous: 'vous quittez',
+          ils: 'ils quittent'
         },
         passeCompose: {
           je: 'j\'ai quitté',
-          tu: ' as quitté',
-          il: ' a quitté',
-          nous: ' avons quitté',
-          vous: ' avez quitté',
-          ils: ' ont quitté'
+          tu: 'tu as quitté',
+          il: 'il a quitté',
+          nous: 'nous avons quitté',
+          vous: 'vous avez quitté',
+          ils: 'ils ont quitté'
         },
         imparfait: {
           je: 'je quittais',
-          tu: ' quittais',
-          il: ' quittait',
-          nous: ' quittions',
-          vous: ' quittiez',
-          ils: ' quittaient'
+          tu: 'tu quittais',
+          il: 'il quittait',
+          nous: 'nous quittions',
+          vous: 'vous quittiez',
+          ils: 'ils quittaient'
         },
         plusQueParfait: {
           je: 'j\'avais quitté',
-          tu: ' avais quitté',
-          il: ' avait quitté',
-          nous: ' avions quitté',
-          vous: ' aviez quitté',
-          ils: ' avaient quitté'
+          tu: 'tu avais quitté',
+          il: 'il avait quitté',
+          nous: 'nous avions quitté',
+          vous: 'vous aviez quitté',
+          ils: 'ils avaient quitté'
         },
         passeSimple: {
           je: 'je quittai',
-          tu: ' quittas',
-          il: ' quitta',
-          nous: ' quittâmes',
-          vous: ' quittâtes',
-          ils: ' quittèrent'
+          tu: 'tu quittas',
+          il: 'il quitta',
+          nous: 'nous quittâmes',
+          vous: 'vous quittâtes',
+          ils: 'ils quittèrent'
         },
         passeAnterieur: {
           je: 'j\'eus quitté',
-          tu: ' eus quitté',
-          il: ' eut quitté',
-          nous: ' eûmes quitté',
-          vous: ' eûtes quitté',
-          ils: ' eurent quitté'
+          tu: 'tu eus quitté',
+          il: 'il eut quitté',
+          nous: 'nous eûmes quitté',
+          vous: 'vous eûtes quitté',
+          ils: 'ils eurent quitté'
         },
         futurSimple: {
           je: 'je quitterai',
-          tu: ' quitteras',
-          il: ' quittera',
-          nous: ' quitterons',
-          vous: ' quitterez',
-          ils: ' quitteront'
+          tu: 'tu quitteras',
+          il: 'il quittera',
+          nous: 'nous quitterons',
+          vous: 'vous quitterez',
+          ils: 'ils quitteront'
         },
         futurAnterieur: {
           je: 'j\'aurai quitté',
-          tu: ' auras quitté',
-          il: ' aura quitté',
-          nous: ' aurons quitté',
-          vous: ' aurez quitté',
-          ils: ' auront quitté'
+          tu: 'tu auras quitté',
+          il: 'il aura quitté',
+          nous: 'nous aurons quitté',
+          vous: 'vous aurez quitté',
+          ils: 'ils auront quitté'
         }
       },
       conditionnel: {
         present: {
           je: 'je quitterais',
-          tu: ' quitterais',
-          il: ' quitterait',
-          nous: ' quitterions',
-          vous: ' quitteriez',
-          ils: ' quitteraient'
+          tu: 'tu quitterais',
+          il: 'il quitterait',
+          nous: 'nous quitterions',
+          vous: 'vous quitteriez',
+          ils: 'ils quitteraient'
         },
         passe: {
           je: 'j\'aurais quitté',
-          tu: ' aurais quitté',
-          il: ' aurait quitté',
-          nous: ' aurions quitté',
-          vous: ' auriez quitté',
-          ils: ' auraient quitté'
+          tu: 'tu aurais quitté',
+          il: 'il aurait quitté',
+          nous: 'nous aurions quitté',
+          vous: 'vous auriez quitté',
+          ils: 'ils auraient quitté'
         }
       },
       subjonctif: {
@@ -920,8 +920,8 @@ export const verbsQ = [
         },
         passe: {
           je: 'aie quitté',
-          nous: 'ayons quitté',
-          vous: 'ayez quitté'
+          nous: 'nous ayons quitté',
+          vous: 'vous ayez quitté'
         }
       },
       infinitif: {
@@ -938,7 +938,7 @@ export const verbsQ = [
         },
         passe: {
           je: 'quitté',
-          nous: 'ayant quitté'
+          nous: 'nous ayant quitté'
         }
       },
       gerondif: {

@@ -5,85 +5,85 @@ export const verbsU = [
       indicatif: {
         present: {
           je: 'j\'unis',
-          tu: ' unis',
-          il: ' unit',
-          nous: ' unissons',
-          vous: ' unissez',
-          ils: ' unissent'
+          tu: 'tu unis',
+          il: 'il unit',
+          nous: 'nous unissons',
+          vous: 'vous unissez',
+          ils: 'ils unissent'
         },
         passeCompose: {
           je: 'j\'ai uni',
-          tu: ' as uni',
-          il: ' a uni',
-          nous: ' avons uni',
-          vous: ' avez uni',
-          ils: ' ont uni'
+          tu: 'tu as uni',
+          il: 'il a uni',
+          nous: 'nous avons uni',
+          vous: 'vous avez uni',
+          ils: 'ils ont uni'
         },
         imparfait: {
           je: 'j\'unissais',
-          tu: ' unissais',
-          il: ' unissait',
-          nous: ' unissions',
-          vous: ' unissiez',
-          ils: ' unissaient'
+          tu: 'tu unissais',
+          il: 'il unissait',
+          nous: 'nous unissions',
+          vous: 'vous unissiez',
+          ils: 'ils unissaient'
         },
         plusQueParfait: {
           je: 'j\'avais uni',
-          tu: ' avais uni',
-          il: ' avait uni',
-          nous: ' avions uni',
-          vous: ' aviez uni',
-          ils: ' avaient uni'
+          tu: 'tu avais uni',
+          il: 'il avait uni',
+          nous: 'nous avions uni',
+          vous: 'vous aviez uni',
+          ils: 'ils avaient uni'
         },
         passeSimple: {
           je: 'j\'unis',
-          tu: ' unis',
-          il: ' unit',
-          nous: ' unîmes',
-          vous: ' unîtes',
-          ils: ' unirent'
+          tu: 'tu unis',
+          il: 'il unit',
+          nous: 'nous unîmes',
+          vous: 'vous unîtes',
+          ils: 'ils unirent'
         },
         passeAnterieur: {
           je: 'j\'eus uni',
-          tu: ' eus uni',
-          il: ' eut uni',
-          nous: ' eûmes uni',
-          vous: ' eûtes uni',
-          ils: ' eurent uni'
+          tu: 'tu eus uni',
+          il: 'il eut uni',
+          nous: 'nous eûmes uni',
+          vous: 'vous eûtes uni',
+          ils: 'ils eurent uni'
         },
         futurSimple: {
           je: 'j\'unirai',
-          tu: ' uniras',
-          il: ' unira',
-          nous: ' unirons',
-          vous: ' unirez',
-          ils: ' uniront'
+          tu: 'tu uniras',
+          il: 'il unira',
+          nous: 'nous unirons',
+          vous: 'vous unirez',
+          ils: 'ils uniront'
         },
         futurAnterieur: {
           je: 'j\'aurai uni',
-          tu: ' auras uni',
-          il: ' aura uni',
-          nous: ' aurons uni',
-          vous: ' aurez uni',
-          ils: ' auront uni'
+          tu: 'tu auras uni',
+          il: 'il aura uni',
+          nous: 'nous aurons uni',
+          vous: 'vous aurez uni',
+          ils: 'ils auront uni'
         }
       },
       conditionnel: {
         present: {
           je: 'j\'unirais',
-          tu: ' unirais',
-          il: ' unirait',
-          nous: ' unirions',
-          vous: ' uniriez',
-          ils: ' uniraient'
+          tu: 'tu unirais',
+          il: 'il unirait',
+          nous: 'nous unirions',
+          vous: 'vous uniriez',
+          ils: 'ils uniraient'
         },
         passe: {
           je: 'j\'aurais uni',
-          tu: ' aurais uni',
-          il: ' aurait uni',
-          nous: ' aurions uni',
-          vous: ' auriez uni',
-          ils: ' auraient uni'
+          tu: 'tu aurais uni',
+          il: 'il aurait uni',
+          nous: 'nous aurions uni',
+          vous: 'vous auriez uni',
+          ils: 'ils auraient uni'
         }
       },
       subjonctif: {
@@ -123,13 +123,13 @@ export const verbsU = [
       imperatif: {
         present: {
           je: 'unis',
-          nous: 'unissons',
-          vous: 'unissez'
+          nous: 'nous unissons',
+          vous: 'vous unissez'
         },
         passe: {
           je: 'aie uni',
-          nous: 'ayons uni',
-          vous: 'ayez uni'
+          nous: 'nous ayons uni',
+          vous: 'vous ayez uni'
         }
       },
       infinitif: {
@@ -146,7 +146,7 @@ export const verbsU = [
         },
         passe: {
           je: 'uni',
-          nous: 'ayant uni'
+          nous: 'nous ayant uni'
         }
       },
       gerondif: {
@@ -164,54 +164,54 @@ export const verbsU = [
       indicatif: {
         present: {
           je: '-',
-          il: ' urge',
-          ils: ' urgent'
+          il: 'il urge',
+          ils: 'ils urgent'
         },
         passeCompose: {
           je: '-',
-          il: ' a urgé',
-          ils: ' ont urgé'
+          il: 'il a urgé',
+          ils: 'ils ont urgé'
         },
         imparfait: {
           je: '-',
-          il: ' urgeait',
-          ils: ' urgeaient'
+          il: 'il urgeait',
+          ils: 'ils urgeaient'
         },
         plusQueParfait: {
           je: '-',
-          il: ' avait urgé',
-          ils: ' avaient urgé'
+          il: 'il avait urgé',
+          ils: 'ils avaient urgé'
         },
         passeSimple: {
           je: '-',
-          il: ' urgea',
-          ils: ' urgèrent'
+          il: 'il urgea',
+          ils: 'ils urgèrent'
         },
         passeAnterieur: {
           je: '-',
-          il: ' eut urgé',
-          ils: ' eurent urgé'
+          il: 'il eut urgé',
+          ils: 'ils eurent urgé'
         },
         futurSimple: {
           je: '-',
-          il: ' urgera',
-          ils: ' urgeront'
+          il: 'il urgera',
+          ils: 'ils urgeront'
         },
         futurAnterieur: {
           je: '-',
-          il: ' aura urgé',
-          ils: ' auront urgé'
+          il: 'il aura urgé',
+          ils: 'ils auront urgé'
         }
       },
       conditionnel: {
         present: {
           je: '-',
-          il: ' urgerait',
-          ils: ' urgeraient'
+          il: 'il urgerait',
+          ils: 'ils urgeraient'
         },
         passe: {
-          il: ' aurait urgé',
-          ils: ' auraient urgé'
+          il: 'il aurait urgé',
+          ils: 'ils auraient urgé'
         }
       },
       subjonctif: {
@@ -253,7 +253,7 @@ export const verbsU = [
         },
         passe: {
           je: 'urgé',
-          nous: 'ayant urgé'
+          nous: 'nous ayant urgé'
         }
       },
       gerondif: {
@@ -271,85 +271,85 @@ export const verbsU = [
       indicatif: {
         present: {
           je: 'j\'urine',
-          tu: ' urines',
-          il: ' urine',
-          nous: ' urinons',
-          vous: ' urinez',
-          ils: ' urinent'
+          tu: 'tu urines',
+          il: 'il urine',
+          nous: 'nous urinons',
+          vous: 'vous urinez',
+          ils: 'ils urinent'
         },
         passeCompose: {
           je: 'j\'ai uriné',
-          tu: ' as uriné',
-          il: ' a uriné',
-          nous: ' avons uriné',
-          vous: ' avez uriné',
-          ils: ' ont uriné'
+          tu: 'tu as uriné',
+          il: 'il a uriné',
+          nous: 'nous avons uriné',
+          vous: 'vous avez uriné',
+          ils: 'ils ont uriné'
         },
         imparfait: {
           je: 'j\'urinais',
-          tu: ' urinais',
-          il: ' urinait',
-          nous: ' urinions',
-          vous: ' uriniez',
-          ils: ' urinaient'
+          tu: 'tu urinais',
+          il: 'il urinait',
+          nous: 'nous urinions',
+          vous: 'vous uriniez',
+          ils: 'ils urinaient'
         },
         plusQueParfait: {
           je: 'j\'avais uriné',
-          tu: ' avais uriné',
-          il: ' avait uriné',
-          nous: ' avions uriné',
-          vous: ' aviez uriné',
-          ils: ' avaient uriné'
+          tu: 'tu avais uriné',
+          il: 'il avait uriné',
+          nous: 'nous avions uriné',
+          vous: 'vous aviez uriné',
+          ils: 'ils avaient uriné'
         },
         passeSimple: {
           je: 'j\'urinai',
-          tu: ' urinas',
-          il: ' urina',
-          nous: ' urinâmes',
-          vous: ' urinâtes',
-          ils: ' urinèrent'
+          tu: 'tu urinas',
+          il: 'il urina',
+          nous: 'nous urinâmes',
+          vous: 'vous urinâtes',
+          ils: 'ils urinèrent'
         },
         passeAnterieur: {
           je: 'j\'eus uriné',
-          tu: ' eus uriné',
-          il: ' eut uriné',
-          nous: ' eûmes uriné',
-          vous: ' eûtes uriné',
-          ils: ' eurent uriné'
+          tu: 'tu eus uriné',
+          il: 'il eut uriné',
+          nous: 'nous eûmes uriné',
+          vous: 'vous eûtes uriné',
+          ils: 'ils eurent uriné'
         },
         futurSimple: {
           je: 'j\'urinerai',
-          tu: ' urineras',
-          il: ' urinera',
-          nous: ' urinerons',
-          vous: ' urinerez',
-          ils: ' urineront'
+          tu: 'tu urineras',
+          il: 'il urinera',
+          nous: 'nous urinerons',
+          vous: 'vous urinerez',
+          ils: 'ils urineront'
         },
         futurAnterieur: {
           je: 'j\'aurai uriné',
-          tu: ' auras uriné',
-          il: ' aura uriné',
-          nous: ' aurons uriné',
-          vous: ' aurez uriné',
-          ils: ' auront uriné'
+          tu: 'tu auras uriné',
+          il: 'il aura uriné',
+          nous: 'nous aurons uriné',
+          vous: 'vous aurez uriné',
+          ils: 'ils auront uriné'
         }
       },
       conditionnel: {
         present: {
           je: 'j\'urinerais',
-          tu: ' urinerais',
-          il: ' urinerait',
-          nous: ' urinerions',
-          vous: ' urineriez',
-          ils: ' urineraient'
+          tu: 'tu urinerais',
+          il: 'il urinerait',
+          nous: 'nous urinerions',
+          vous: 'vous urineriez',
+          ils: 'ils urineraient'
         },
         passe: {
           je: 'j\'aurais uriné',
-          tu: ' aurais uriné',
-          il: ' aurait uriné',
-          nous: ' aurions uriné',
-          vous: ' auriez uriné',
-          ils: ' auraient uriné'
+          tu: 'tu aurais uriné',
+          il: 'il aurait uriné',
+          nous: 'nous aurions uriné',
+          vous: 'vous auriez uriné',
+          ils: 'ils auraient uriné'
         }
       },
       subjonctif: {
@@ -389,13 +389,13 @@ export const verbsU = [
       imperatif: {
         present: {
           je: 'urine',
-          nous: 'urinons',
-          vous: 'urinez'
+          nous: 'nous urinons',
+          vous: 'vous urinez'
         },
         passe: {
           je: 'aie uriné',
-          nous: 'ayons uriné',
-          vous: 'ayez uriné'
+          nous: 'nous ayons uriné',
+          vous: 'vous ayez uriné'
         }
       },
       infinitif: {
@@ -412,7 +412,7 @@ export const verbsU = [
         },
         passe: {
           je: 'uriné',
-          nous: 'ayant uriné'
+          nous: 'nous ayant uriné'
         }
       },
       gerondif: {
@@ -430,85 +430,85 @@ export const verbsU = [
       indicatif: {
         present: {
           je: 'j\'use',
-          tu: ' uses',
-          il: ' use',
-          nous: ' usons',
-          vous: ' usez',
-          ils: ' usent'
+          tu: 'tu uses',
+          il: 'il use',
+          nous: 'nous usons',
+          vous: 'vous usez',
+          ils: 'ils usent'
         },
         passeCompose: {
           je: 'j\'ai usé',
-          tu: ' as usé',
-          il: ' a usé',
-          nous: ' avons usé',
-          vous: ' avez usé',
-          ils: ' ont usé'
+          tu: 'tu as usé',
+          il: 'il a usé',
+          nous: 'nous avons usé',
+          vous: 'vous avez usé',
+          ils: 'ils ont usé'
         },
         imparfait: {
           je: 'j\'usais',
-          tu: ' usais',
-          il: ' usait',
-          nous: ' usions',
-          vous: ' usiez',
-          ils: ' usaient'
+          tu: 'tu usais',
+          il: 'il usait',
+          nous: 'nous usions',
+          vous: 'vous usiez',
+          ils: 'ils usaient'
         },
         plusQueParfait: {
           je: 'j\'avais usé',
-          tu: ' avais usé',
-          il: ' avait usé',
-          nous: ' avions usé',
-          vous: ' aviez usé',
-          ils: ' avaient usé'
+          tu: 'tu avais usé',
+          il: 'il avait usé',
+          nous: 'nous avions usé',
+          vous: 'vous aviez usé',
+          ils: 'ils avaient usé'
         },
         passeSimple: {
           je: 'j\'usai',
-          tu: ' usas',
-          il: ' usa',
-          nous: ' usâmes',
-          vous: ' usâtes',
-          ils: ' usèrent'
+          tu: 'tu usas',
+          il: 'il usa',
+          nous: 'nous usâmes',
+          vous: 'vous usâtes',
+          ils: 'ils usèrent'
         },
         passeAnterieur: {
           je: 'j\'eus usé',
-          tu: ' eus usé',
-          il: ' eut usé',
-          nous: ' eûmes usé',
-          vous: ' eûtes usé',
-          ils: ' eurent usé'
+          tu: 'tu eus usé',
+          il: 'il eut usé',
+          nous: 'nous eûmes usé',
+          vous: 'vous eûtes usé',
+          ils: 'ils eurent usé'
         },
         futurSimple: {
           je: 'j\'userai',
-          tu: ' useras',
-          il: ' usera',
-          nous: ' userons',
-          vous: ' userez',
-          ils: ' useront'
+          tu: 'tu useras',
+          il: 'il usera',
+          nous: 'nous userons',
+          vous: 'vous userez',
+          ils: 'ils useront'
         },
         futurAnterieur: {
           je: 'j\'aurai usé',
-          tu: ' auras usé',
-          il: ' aura usé',
-          nous: ' aurons usé',
-          vous: ' aurez usé',
-          ils: ' auront usé'
+          tu: 'tu auras usé',
+          il: 'il aura usé',
+          nous: 'nous aurons usé',
+          vous: 'vous aurez usé',
+          ils: 'ils auront usé'
         }
       },
       conditionnel: {
         present: {
           je: 'j\'userais',
-          tu: ' userais',
-          il: ' userait',
-          nous: ' userions',
-          vous: ' useriez',
-          ils: ' useraient'
+          tu: 'tu userais',
+          il: 'il userait',
+          nous: 'nous userions',
+          vous: 'vous useriez',
+          ils: 'ils useraient'
         },
         passe: {
           je: 'j\'aurais usé',
-          tu: ' aurais usé',
-          il: ' aurait usé',
-          nous: ' aurions usé',
-          vous: ' auriez usé',
-          ils: ' auraient usé'
+          tu: 'tu aurais usé',
+          il: 'il aurait usé',
+          nous: 'nous aurions usé',
+          vous: 'vous auriez usé',
+          ils: 'ils auraient usé'
         }
       },
       subjonctif: {
@@ -548,13 +548,13 @@ export const verbsU = [
       imperatif: {
         present: {
           je: 'use',
-          nous: 'usons',
-          vous: 'usez'
+          nous: 'nous usons',
+          vous: 'vous usez'
         },
         passe: {
           je: 'aie usé',
-          nous: 'ayons usé',
-          vous: 'ayez usé'
+          nous: 'nous ayons usé',
+          vous: 'vous ayez usé'
         }
       },
       infinitif: {
@@ -571,7 +571,7 @@ export const verbsU = [
         },
         passe: {
           je: 'usé',
-          nous: 'ayant usé'
+          nous: 'nous ayant usé'
         }
       },
       gerondif: {
@@ -589,85 +589,85 @@ export const verbsU = [
       indicatif: {
         present: {
           je: 'j\'utilise',
-          tu: ' utilises',
-          il: ' utilise',
-          nous: ' utilisons',
-          vous: ' utilisez',
-          ils: ' utilisent'
+          tu: 'tu utilises',
+          il: 'il utilise',
+          nous: 'nous utilisons',
+          vous: 'vous utilisez',
+          ils: 'ils utilisent'
         },
         passeCompose: {
           je: 'j\'ai utilisé',
-          tu: ' as utilisé',
-          il: ' a utilisé',
-          nous: ' avons utilisé',
-          vous: ' avez utilisé',
-          ils: ' ont utilisé'
+          tu: 'tu as utilisé',
+          il: 'il a utilisé',
+          nous: 'nous avons utilisé',
+          vous: 'vous avez utilisé',
+          ils: 'ils ont utilisé'
         },
         imparfait: {
           je: 'j\'utilisais',
-          tu: ' utilisais',
-          il: ' utilisait',
-          nous: ' utilisions',
-          vous: ' utilisiez',
-          ils: ' utilisaient'
+          tu: 'tu utilisais',
+          il: 'il utilisait',
+          nous: 'nous utilisions',
+          vous: 'vous utilisiez',
+          ils: 'ils utilisaient'
         },
         plusQueParfait: {
           je: 'j\'avais utilisé',
-          tu: ' avais utilisé',
-          il: ' avait utilisé',
-          nous: ' avions utilisé',
-          vous: ' aviez utilisé',
-          ils: ' avaient utilisé'
+          tu: 'tu avais utilisé',
+          il: 'il avait utilisé',
+          nous: 'nous avions utilisé',
+          vous: 'vous aviez utilisé',
+          ils: 'ils avaient utilisé'
         },
         passeSimple: {
           je: 'j\'utilisai',
-          tu: ' utilisas',
-          il: ' utilisa',
-          nous: ' utilisâmes',
-          vous: ' utilisâtes',
-          ils: ' utilisèrent'
+          tu: 'tu utilisas',
+          il: 'il utilisa',
+          nous: 'nous utilisâmes',
+          vous: 'vous utilisâtes',
+          ils: 'ils utilisèrent'
         },
         passeAnterieur: {
           je: 'j\'eus utilisé',
-          tu: ' eus utilisé',
-          il: ' eut utilisé',
-          nous: ' eûmes utilisé',
-          vous: ' eûtes utilisé',
-          ils: ' eurent utilisé'
+          tu: 'tu eus utilisé',
+          il: 'il eut utilisé',
+          nous: 'nous eûmes utilisé',
+          vous: 'vous eûtes utilisé',
+          ils: 'ils eurent utilisé'
         },
         futurSimple: {
           je: 'j\'utiliserai',
-          tu: ' utiliseras',
-          il: ' utilisera',
-          nous: ' utiliserons',
-          vous: ' utiliserez',
-          ils: ' utiliseront'
+          tu: 'tu utiliseras',
+          il: 'il utilisera',
+          nous: 'nous utiliserons',
+          vous: 'vous utiliserez',
+          ils: 'ils utiliseront'
         },
         futurAnterieur: {
           je: 'j\'aurai utilisé',
-          tu: ' auras utilisé',
-          il: ' aura utilisé',
-          nous: ' aurons utilisé',
-          vous: ' aurez utilisé',
-          ils: ' auront utilisé'
+          tu: 'tu auras utilisé',
+          il: 'il aura utilisé',
+          nous: 'nous aurons utilisé',
+          vous: 'vous aurez utilisé',
+          ils: 'ils auront utilisé'
         }
       },
       conditionnel: {
         present: {
           je: 'j\'utiliserais',
-          tu: ' utiliserais',
-          il: ' utiliserait',
-          nous: ' utiliserions',
-          vous: ' utiliseriez',
-          ils: ' utiliseraient'
+          tu: 'tu utiliserais',
+          il: 'il utiliserait',
+          nous: 'nous utiliserions',
+          vous: 'vous utiliseriez',
+          ils: 'ils utiliseraient'
         },
         passe: {
           je: 'j\'aurais utilisé',
-          tu: ' aurais utilisé',
-          il: ' aurait utilisé',
-          nous: ' aurions utilisé',
-          vous: ' auriez utilisé',
-          ils: ' auraient utilisé'
+          tu: 'tu aurais utilisé',
+          il: 'il aurait utilisé',
+          nous: 'nous aurions utilisé',
+          vous: 'vous auriez utilisé',
+          ils: 'ils auraient utilisé'
         }
       },
       subjonctif: {
@@ -707,13 +707,13 @@ export const verbsU = [
       imperatif: {
         present: {
           je: 'utilise',
-          nous: 'utilisons',
-          vous: 'utilisez'
+          nous: 'nous utilisons',
+          vous: 'vous utilisez'
         },
         passe: {
           je: 'aie utilisé',
-          nous: 'ayons utilisé',
-          vous: 'ayez utilisé'
+          nous: 'nous ayons utilisé',
+          vous: 'vous ayez utilisé'
         }
       },
       infinitif: {
@@ -730,7 +730,7 @@ export const verbsU = [
         },
         passe: {
           je: 'utilisé',
-          nous: 'ayant utilisé'
+          nous: 'nous ayant utilisé'
         }
       },
       gerondif: {

@@ -5,85 +5,85 @@ export const verbsN = [
       indicatif: {
         present: {
           je: 'je nage',
-          tu: ' nages',
-          il: ' nage',
-          nous: ' nageons',
-          vous: ' nagez',
-          ils: ' nagent'
+          tu: 'tu nages',
+          il: 'il nage',
+          nous: 'nous nageons',
+          vous: 'vous nagez',
+          ils: 'ils nagent'
         },
         passeCompose: {
           je: 'j\'ai nagé',
-          tu: ' as nagé',
-          il: ' a nagé',
-          nous: ' avons nagé',
-          vous: ' avez nagé',
-          ils: ' ont nagé'
+          tu: 'tu as nagé',
+          il: 'il a nagé',
+          nous: 'nous avons nagé',
+          vous: 'vous avez nagé',
+          ils: 'ils ont nagé'
         },
         imparfait: {
           je: 'je nageais',
-          tu: ' nageais',
-          il: ' nageait',
-          nous: ' nagions',
-          vous: ' nagiez',
-          ils: ' nageaient'
+          tu: 'tu nageais',
+          il: 'il nageait',
+          nous: 'nous nagions',
+          vous: 'vous nagiez',
+          ils: 'ils nageaient'
         },
         plusQueParfait: {
           je: 'j\'avais nagé',
-          tu: ' avais nagé',
-          il: ' avait nagé',
-          nous: ' avions nagé',
-          vous: ' aviez nagé',
-          ils: ' avaient nagé'
+          tu: 'tu avais nagé',
+          il: 'il avait nagé',
+          nous: 'nous avions nagé',
+          vous: 'vous aviez nagé',
+          ils: 'ils avaient nagé'
         },
         passeSimple: {
           je: 'je nageai',
-          tu: ' nageas',
-          il: ' nagea',
-          nous: ' nageâmes',
-          vous: ' nageâtes',
-          ils: ' nagèrent'
+          tu: 'tu nageas',
+          il: 'il nagea',
+          nous: 'nous nageâmes',
+          vous: 'vous nageâtes',
+          ils: 'ils nagèrent'
         },
         passeAnterieur: {
           je: 'j\'eus nagé',
-          tu: ' eus nagé',
-          il: ' eut nagé',
-          nous: ' eûmes nagé',
-          vous: ' eûtes nagé',
-          ils: ' eurent nagé'
+          tu: 'tu eus nagé',
+          il: 'il eut nagé',
+          nous: 'nous eûmes nagé',
+          vous: 'vous eûtes nagé',
+          ils: 'ils eurent nagé'
         },
         futurSimple: {
           je: 'je nagerai',
-          tu: ' nageras',
-          il: ' nagera',
-          nous: ' nagerons',
-          vous: ' nagerez',
-          ils: ' nageront'
+          tu: 'tu nageras',
+          il: 'il nagera',
+          nous: 'nous nagerons',
+          vous: 'vous nagerez',
+          ils: 'ils nageront'
         },
         futurAnterieur: {
           je: 'j\'aurai nagé',
-          tu: ' auras nagé',
-          il: ' aura nagé',
-          nous: ' aurons nagé',
-          vous: ' aurez nagé',
-          ils: ' auront nagé'
+          tu: 'tu auras nagé',
+          il: 'il aura nagé',
+          nous: 'nous aurons nagé',
+          vous: 'vous aurez nagé',
+          ils: 'ils auront nagé'
         }
       },
       conditionnel: {
         present: {
           je: 'je nagerais',
-          tu: ' nagerais',
-          il: ' nagerait',
-          nous: ' nagerions',
-          vous: ' nageriez',
-          ils: ' nageraient'
+          tu: 'tu nagerais',
+          il: 'il nagerait',
+          nous: 'nous nagerions',
+          vous: 'vous nageriez',
+          ils: 'ils nageraient'
         },
         passe: {
           je: 'j\'aurais nagé',
-          tu: ' aurais nagé',
-          il: ' aurait nagé',
-          nous: ' aurions nagé',
-          vous: ' auriez nagé',
-          ils: ' auraient nagé'
+          tu: 'tu aurais nagé',
+          il: 'il aurait nagé',
+          nous: 'nous aurions nagé',
+          vous: 'vous auriez nagé',
+          ils: 'ils auraient nagé'
         }
       },
       subjonctif: {
@@ -123,13 +123,13 @@ export const verbsN = [
       imperatif: {
         present: {
           je: 'nage',
-          nous: 'nageons',
-          vous: 'nagez'
+          nous: 'nous nageons',
+          vous: 'vous nagez'
         },
         passe: {
           je: 'aie nagé',
-          nous: 'ayons nagé',
-          vous: 'ayez nagé'
+          nous: 'nous ayons nagé',
+          vous: 'vous ayez nagé'
         }
       },
       infinitif: {
@@ -146,7 +146,7 @@ export const verbsN = [
         },
         passe: {
           je: 'nagé',
-          nous: 'ayant nagé'
+          nous: 'nous ayant nagé'
         }
       },
       gerondif: {
@@ -164,85 +164,85 @@ export const verbsN = [
       indicatif: {
         present: {
           je: 'je nais',
-          tu: ' nais',
-          il: ' naît',
-          nous: ' naissons',
-          vous: ' naissez',
-          ils: ' naissent'
+          tu: 'tu nais',
+          il: 'il naît',
+          nous: 'nous naissons',
+          vous: 'vous naissez',
+          ils: 'ils naissent'
         },
         passeCompose: {
           je: 'je suis né',
-          tu: ' es né',
-          il: ' est né',
-          nous: ' sommes nés',
-          vous: ' êtes nés',
-          ils: ' sont nés'
+          tu: 'tu es né',
+          il: 'il est né',
+          nous: 'nous sommes nés',
+          vous: 'vous êtes nés',
+          ils: 'ils sont nés'
         },
         imparfait: {
           je: 'je naissais',
-          tu: ' naissais',
-          il: ' naissait',
-          nous: ' naissions',
-          vous: ' naissiez',
-          ils: ' naissaient'
+          tu: 'tu naissais',
+          il: 'il naissait',
+          nous: 'nous naissions',
+          vous: 'vous naissiez',
+          ils: 'ils naissaient'
         },
         plusQueParfait: {
           je: 'j\'étais né',
-          tu: ' étais né',
-          il: ' était né',
-          nous: ' étions nés',
-          vous: ' étiez nés',
-          ils: ' étaient nés'
+          tu: 'tu étais né',
+          il: 'il était né',
+          nous: 'nous étions nés',
+          vous: 'vous étiez nés',
+          ils: 'ils étaient nés'
         },
         passeSimple: {
           je: 'je naquis',
-          tu: ' naquis',
-          il: ' naquit',
-          nous: ' naquîmes',
-          vous: ' naquîtes',
-          ils: ' naquirent'
+          tu: 'tu naquis',
+          il: 'il naquit',
+          nous: 'nous naquîmes',
+          vous: 'vous naquîtes',
+          ils: 'ils naquirent'
         },
         passeAnterieur: {
           je: 'je fus né',
-          tu: ' fus né',
-          il: ' fut né',
-          nous: ' fûmes nés',
-          vous: ' fûtes nés',
-          ils: ' furent nés'
+          tu: 'tu fus né',
+          il: 'il fut né',
+          nous: 'nous fûmes nés',
+          vous: 'vous fûtes nés',
+          ils: 'ils furent nés'
         },
         futurSimple: {
           je: 'je naîtrai',
-          tu: ' naîtras',
-          il: ' naîtra',
-          nous: ' naîtrons',
-          vous: ' naîtrez',
-          ils: ' naîtront'
+          tu: 'tu naîtras',
+          il: 'il naîtra',
+          nous: 'nous naîtrons',
+          vous: 'vous naîtrez',
+          ils: 'ils naîtront'
         },
         futurAnterieur: {
           je: 'je serai né',
-          tu: ' seras né',
-          il: ' sera né',
-          nous: ' serons nés',
-          vous: ' serez nés',
-          ils: ' seront nés'
+          tu: 'tu seras né',
+          il: 'il sera né',
+          nous: 'nous serons nés',
+          vous: 'vous serez nés',
+          ils: 'ils seront nés'
         }
       },
       conditionnel: {
         present: {
           je: 'je naîtrais',
-          tu: ' naîtrais',
-          il: ' naîtrait',
-          nous: ' naîtrions',
-          vous: ' naîtriez',
-          ils: ' naîtraient'
+          tu: 'tu naîtrais',
+          il: 'il naîtrait',
+          nous: 'nous naîtrions',
+          vous: 'vous naîtriez',
+          ils: 'ils naîtraient'
         },
         passe: {
           je: 'je serais né',
-          tu: ' serais né',
-          il: ' serait né',
-          nous: ' serions nés',
-          vous: ' seriez nés',
-          ils: ' seraient nés'
+          tu: 'tu serais né',
+          il: 'il serait né',
+          nous: 'nous serions nés',
+          vous: 'vous seriez nés',
+          ils: 'ils seraient nés'
         }
       },
       subjonctif: {
@@ -282,13 +282,13 @@ export const verbsN = [
       imperatif: {
         present: {
           je: 'nais',
-          nous: 'naissons',
-          vous: 'naissez'
+          nous: 'nous naissons',
+          vous: 'vous naissez'
         },
         passe: {
           je: 'sois né',
-          nous: 'soyons nés',
-          vous: 'soyez nés'
+          nous: 'nous soyons nés',
+          vous: 'vous soyez nés'
         }
       },
       infinitif: {
@@ -305,7 +305,7 @@ export const verbsN = [
         },
         passe: {
           je: 'né',
-          nous: 'étant né'
+          nous: 'nous étant né'
         }
       },
       gerondif: {
@@ -323,85 +323,85 @@ export const verbsN = [
       indicatif: {
         present: {
           je: 'je nargue',
-          tu: ' nargues',
-          il: ' nargue',
-          nous: ' narguons',
-          vous: ' narguez',
-          ils: ' narguent'
+          tu: 'tu nargues',
+          il: 'il nargue',
+          nous: 'nous narguons',
+          vous: 'vous narguez',
+          ils: 'ils narguent'
         },
         passeCompose: {
           je: 'j\'ai nargué',
-          tu: ' as nargué',
-          il: ' a nargué',
-          nous: ' avons nargué',
-          vous: ' avez nargué',
-          ils: ' ont nargué'
+          tu: 'tu as nargué',
+          il: 'il a nargué',
+          nous: 'nous avons nargué',
+          vous: 'vous avez nargué',
+          ils: 'ils ont nargué'
         },
         imparfait: {
           je: 'je narguais',
-          tu: ' narguais',
-          il: ' narguait',
-          nous: ' narguions',
-          vous: ' narguiez',
-          ils: ' narguaient'
+          tu: 'tu narguais',
+          il: 'il narguait',
+          nous: 'nous narguions',
+          vous: 'vous narguiez',
+          ils: 'ils narguaient'
         },
         plusQueParfait: {
           je: 'j\'avais nargué',
-          tu: ' avais nargué',
-          il: ' avait nargué',
-          nous: ' avions nargué',
-          vous: ' aviez nargué',
-          ils: ' avaient nargué'
+          tu: 'tu avais nargué',
+          il: 'il avait nargué',
+          nous: 'nous avions nargué',
+          vous: 'vous aviez nargué',
+          ils: 'ils avaient nargué'
         },
         passeSimple: {
           je: 'je narguai',
-          tu: ' narguas',
-          il: ' nargua',
-          nous: ' narguâmes',
-          vous: ' narguâtes',
-          ils: ' narguèrent'
+          tu: 'tu narguas',
+          il: 'il nargua',
+          nous: 'nous narguâmes',
+          vous: 'vous narguâtes',
+          ils: 'ils narguèrent'
         },
         passeAnterieur: {
           je: 'j\'eus nargué',
-          tu: ' eus nargué',
-          il: ' eut nargué',
-          nous: ' eûmes nargué',
-          vous: ' eûtes nargué',
-          ils: ' eurent nargué'
+          tu: 'tu eus nargué',
+          il: 'il eut nargué',
+          nous: 'nous eûmes nargué',
+          vous: 'vous eûtes nargué',
+          ils: 'ils eurent nargué'
         },
         futurSimple: {
           je: 'je narguerai',
-          tu: ' nargueras',
-          il: ' narguera',
-          nous: ' narguerons',
-          vous: ' narguerez',
-          ils: ' nargueront'
+          tu: 'tu nargueras',
+          il: 'il narguera',
+          nous: 'nous narguerons',
+          vous: 'vous narguerez',
+          ils: 'ils nargueront'
         },
         futurAnterieur: {
           je: 'j\'aurai nargué',
-          tu: ' auras nargué',
-          il: ' aura nargué',
-          nous: ' aurons nargué',
-          vous: ' aurez nargué',
-          ils: ' auront nargué'
+          tu: 'tu auras nargué',
+          il: 'il aura nargué',
+          nous: 'nous aurons nargué',
+          vous: 'vous aurez nargué',
+          ils: 'ils auront nargué'
         }
       },
       conditionnel: {
         present: {
           je: 'je narguerais',
-          tu: ' narguerais',
-          il: ' narguerait',
-          nous: ' narguerions',
-          vous: ' nargueriez',
-          ils: ' nargueraient'
+          tu: 'tu narguerais',
+          il: 'il narguerait',
+          nous: 'nous narguerions',
+          vous: 'vous nargueriez',
+          ils: 'ils nargueraient'
         },
         passe: {
           je: 'j\'aurais nargué',
-          tu: ' aurais nargué',
-          il: ' aurait nargué',
-          nous: ' aurions nargué',
-          vous: ' auriez nargué',
-          ils: ' auraient nargué'
+          tu: 'tu aurais nargué',
+          il: 'il aurait nargué',
+          nous: 'nous aurions nargué',
+          vous: 'vous auriez nargué',
+          ils: 'ils auraient nargué'
         }
       },
       subjonctif: {
@@ -441,13 +441,13 @@ export const verbsN = [
       imperatif: {
         present: {
           je: 'nargue',
-          nous: 'narguons',
-          vous: 'narguez'
+          nous: 'nous narguons',
+          vous: 'vous narguez'
         },
         passe: {
           je: 'aie nargué',
-          nous: 'ayons nargué',
-          vous: 'ayez nargué'
+          nous: 'nous ayons nargué',
+          vous: 'vous ayez nargué'
         }
       },
       infinitif: {
@@ -464,7 +464,7 @@ export const verbsN = [
         },
         passe: {
           je: 'nargué',
-          nous: 'ayant nargué'
+          nous: 'nous ayant nargué'
         }
       },
       gerondif: {
@@ -482,85 +482,85 @@ export const verbsN = [
       indicatif: {
         present: {
           je: 'je narre',
-          tu: ' narres',
-          il: ' narre',
-          nous: ' narrons',
-          vous: ' narrez',
-          ils: ' narrent'
+          tu: 'tu narres',
+          il: 'il narre',
+          nous: 'nous narrons',
+          vous: 'vous narrez',
+          ils: 'ils narrent'
         },
         passeCompose: {
           je: 'j\'ai narré',
-          tu: ' as narré',
-          il: ' a narré',
-          nous: ' avons narré',
-          vous: ' avez narré',
-          ils: ' ont narré'
+          tu: 'tu as narré',
+          il: 'il a narré',
+          nous: 'nous avons narré',
+          vous: 'vous avez narré',
+          ils: 'ils ont narré'
         },
         imparfait: {
           je: 'je narrais',
-          tu: ' narrais',
-          il: ' narrait',
-          nous: ' narrions',
-          vous: ' narriez',
-          ils: ' narraient'
+          tu: 'tu narrais',
+          il: 'il narrait',
+          nous: 'nous narrions',
+          vous: 'vous narriez',
+          ils: 'ils narraient'
         },
         plusQueParfait: {
           je: 'j\'avais narré',
-          tu: ' avais narré',
-          il: ' avait narré',
-          nous: ' avions narré',
-          vous: ' aviez narré',
-          ils: ' avaient narré'
+          tu: 'tu avais narré',
+          il: 'il avait narré',
+          nous: 'nous avions narré',
+          vous: 'vous aviez narré',
+          ils: 'ils avaient narré'
         },
         passeSimple: {
           je: 'je narrai',
-          tu: ' narras',
-          il: ' narra',
-          nous: ' narrâmes',
-          vous: ' narrâtes',
-          ils: ' narrèrent'
+          tu: 'tu narras',
+          il: 'il narra',
+          nous: 'nous narrâmes',
+          vous: 'vous narrâtes',
+          ils: 'ils narrèrent'
         },
         passeAnterieur: {
           je: 'j\'eus narré',
-          tu: ' eus narré',
-          il: ' eut narré',
-          nous: ' eûmes narré',
-          vous: ' eûtes narré',
-          ils: ' eurent narré'
+          tu: 'tu eus narré',
+          il: 'il eut narré',
+          nous: 'nous eûmes narré',
+          vous: 'vous eûtes narré',
+          ils: 'ils eurent narré'
         },
         futurSimple: {
           je: 'je narrerai',
-          tu: ' narreras',
-          il: ' narrera',
-          nous: ' narrerons',
-          vous: ' narrerez',
-          ils: ' narreront'
+          tu: 'tu narreras',
+          il: 'il narrera',
+          nous: 'nous narrerons',
+          vous: 'vous narrerez',
+          ils: 'ils narreront'
         },
         futurAnterieur: {
           je: 'j\'aurai narré',
-          tu: ' auras narré',
-          il: ' aura narré',
-          nous: ' aurons narré',
-          vous: ' aurez narré',
-          ils: ' auront narré'
+          tu: 'tu auras narré',
+          il: 'il aura narré',
+          nous: 'nous aurons narré',
+          vous: 'vous aurez narré',
+          ils: 'ils auront narré'
         }
       },
       conditionnel: {
         present: {
           je: 'je narrerais',
-          tu: ' narrerais',
-          il: ' narrerait',
-          nous: ' narrerions',
-          vous: ' narreriez',
-          ils: ' narreraient'
+          tu: 'tu narrerais',
+          il: 'il narrerait',
+          nous: 'nous narrerions',
+          vous: 'vous narreriez',
+          ils: 'ils narreraient'
         },
         passe: {
           je: 'j\'aurais narré',
-          tu: ' aurais narré',
-          il: ' aurait narré',
-          nous: ' aurions narré',
-          vous: ' auriez narré',
-          ils: ' auraient narré'
+          tu: 'tu aurais narré',
+          il: 'il aurait narré',
+          nous: 'nous aurions narré',
+          vous: 'vous auriez narré',
+          ils: 'ils auraient narré'
         }
       },
       subjonctif: {
@@ -600,13 +600,13 @@ export const verbsN = [
       imperatif: {
         present: {
           je: 'narre',
-          nous: 'narrons',
-          vous: 'narrez'
+          nous: 'nous narrons',
+          vous: 'vous narrez'
         },
         passe: {
           je: 'aie narré',
-          nous: 'ayons narré',
-          vous: 'ayez narré'
+          nous: 'nous ayons narré',
+          vous: 'vous ayez narré'
         }
       },
       infinitif: {
@@ -623,7 +623,7 @@ export const verbsN = [
         },
         passe: {
           je: 'narré',
-          nous: 'ayant narré'
+          nous: 'nous ayant narré'
         }
       },
       gerondif: {
@@ -641,85 +641,85 @@ export const verbsN = [
       indicatif: {
         present: {
           je: 'je navigue',
-          tu: ' navigues',
-          il: ' navigue',
-          nous: ' naviguons',
-          vous: ' naviguez',
-          ils: ' naviguent'
+          tu: 'tu navigues',
+          il: 'il navigue',
+          nous: 'nous naviguons',
+          vous: 'vous naviguez',
+          ils: 'ils naviguent'
         },
         passeCompose: {
           je: 'j\'ai navigué',
-          tu: ' as navigué',
-          il: ' a navigué',
-          nous: ' avons navigué',
-          vous: ' avez navigué',
-          ils: ' ont navigué'
+          tu: 'tu as navigué',
+          il: 'il a navigué',
+          nous: 'nous avons navigué',
+          vous: 'vous avez navigué',
+          ils: 'ils ont navigué'
         },
         imparfait: {
           je: 'je naviguais',
-          tu: ' naviguais',
-          il: ' naviguait',
-          nous: ' naviguions',
-          vous: ' naviguiez',
-          ils: ' naviguaient'
+          tu: 'tu naviguais',
+          il: 'il naviguait',
+          nous: 'nous naviguions',
+          vous: 'vous naviguiez',
+          ils: 'ils naviguaient'
         },
         plusQueParfait: {
           je: 'j\'avais navigué',
-          tu: ' avais navigué',
-          il: ' avait navigué',
-          nous: ' avions navigué',
-          vous: ' aviez navigué',
-          ils: ' avaient navigué'
+          tu: 'tu avais navigué',
+          il: 'il avait navigué',
+          nous: 'nous avions navigué',
+          vous: 'vous aviez navigué',
+          ils: 'ils avaient navigué'
         },
         passeSimple: {
           je: 'je naviguai',
-          tu: ' naviguas',
-          il: ' navigua',
-          nous: ' naviguâmes',
-          vous: ' naviguâtes',
-          ils: ' naviguèrent'
+          tu: 'tu naviguas',
+          il: 'il navigua',
+          nous: 'nous naviguâmes',
+          vous: 'vous naviguâtes',
+          ils: 'ils naviguèrent'
         },
         passeAnterieur: {
           je: 'j\'eus navigué',
-          tu: ' eus navigué',
-          il: ' eut navigué',
-          nous: ' eûmes navigué',
-          vous: ' eûtes navigué',
-          ils: ' eurent navigué'
+          tu: 'tu eus navigué',
+          il: 'il eut navigué',
+          nous: 'nous eûmes navigué',
+          vous: 'vous eûtes navigué',
+          ils: 'ils eurent navigué'
         },
         futurSimple: {
           je: 'je naviguerai',
-          tu: ' navigueras',
-          il: ' naviguera',
-          nous: ' naviguerons',
-          vous: ' naviguerez',
-          ils: ' navigueront'
+          tu: 'tu navigueras',
+          il: 'il naviguera',
+          nous: 'nous naviguerons',
+          vous: 'vous naviguerez',
+          ils: 'ils navigueront'
         },
         futurAnterieur: {
           je: 'j\'aurai navigué',
-          tu: ' auras navigué',
-          il: ' aura navigué',
-          nous: ' aurons navigué',
-          vous: ' aurez navigué',
-          ils: ' auront navigué'
+          tu: 'tu auras navigué',
+          il: 'il aura navigué',
+          nous: 'nous aurons navigué',
+          vous: 'vous aurez navigué',
+          ils: 'ils auront navigué'
         }
       },
       conditionnel: {
         present: {
           je: 'je naviguerais',
-          tu: ' naviguerais',
-          il: ' naviguerait',
-          nous: ' naviguerions',
-          vous: ' navigueriez',
-          ils: ' navigueraient'
+          tu: 'tu naviguerais',
+          il: 'il naviguerait',
+          nous: 'nous naviguerions',
+          vous: 'vous navigueriez',
+          ils: 'ils navigueraient'
         },
         passe: {
           je: 'j\'aurais navigué',
-          tu: ' aurais navigué',
-          il: ' aurait navigué',
-          nous: ' aurions navigué',
-          vous: ' auriez navigué',
-          ils: ' auraient navigué'
+          tu: 'tu aurais navigué',
+          il: 'il aurait navigué',
+          nous: 'nous aurions navigué',
+          vous: 'vous auriez navigué',
+          ils: 'ils auraient navigué'
         }
       },
       subjonctif: {
@@ -759,13 +759,13 @@ export const verbsN = [
       imperatif: {
         present: {
           je: 'navigue',
-          nous: 'naviguons',
-          vous: 'naviguez'
+          nous: 'nous naviguons',
+          vous: 'vous naviguez'
         },
         passe: {
           je: 'aie navigué',
-          nous: 'ayons navigué',
-          vous: 'ayez navigué'
+          nous: 'nous ayons navigué',
+          vous: 'vous ayez navigué'
         }
       },
       infinitif: {
@@ -782,7 +782,7 @@ export const verbsN = [
         },
         passe: {
           je: 'navigué',
-          nous: 'ayant navigué'
+          nous: 'nous ayant navigué'
         }
       },
       gerondif: {
@@ -800,85 +800,85 @@ export const verbsN = [
       indicatif: {
         present: {
           je: 'je nécessite',
-          tu: ' nécessites',
-          il: ' nécessite',
-          nous: ' nécessitons',
-          vous: ' nécessitez',
-          ils: ' nécessitent'
+          tu: 'tu nécessites',
+          il: 'il nécessite',
+          nous: 'nous nécessitons',
+          vous: 'vous nécessitez',
+          ils: 'ils nécessitent'
         },
         passeCompose: {
           je: 'j\'ai nécessité',
-          tu: ' as nécessité',
-          il: ' a nécessité',
-          nous: ' avons nécessité',
-          vous: ' avez nécessité',
-          ils: ' ont nécessité'
+          tu: 'tu as nécessité',
+          il: 'il a nécessité',
+          nous: 'nous avons nécessité',
+          vous: 'vous avez nécessité',
+          ils: 'ils ont nécessité'
         },
         imparfait: {
           je: 'je nécessitais',
-          tu: ' nécessitais',
-          il: ' nécessitait',
-          nous: ' nécessitions',
-          vous: ' nécessitiez',
-          ils: ' nécessitaient'
+          tu: 'tu nécessitais',
+          il: 'il nécessitait',
+          nous: 'nous nécessitions',
+          vous: 'vous nécessitiez',
+          ils: 'ils nécessitaient'
         },
         plusQueParfait: {
           je: 'j\'avais nécessité',
-          tu: ' avais nécessité',
-          il: ' avait nécessité',
-          nous: ' avions nécessité',
-          vous: ' aviez nécessité',
-          ils: ' avaient nécessité'
+          tu: 'tu avais nécessité',
+          il: 'il avait nécessité',
+          nous: 'nous avions nécessité',
+          vous: 'vous aviez nécessité',
+          ils: 'ils avaient nécessité'
         },
         passeSimple: {
           je: 'je nécessitai',
-          tu: ' nécessitas',
-          il: ' nécessita',
-          nous: ' nécessitâmes',
-          vous: ' nécessitâtes',
-          ils: ' nécessitèrent'
+          tu: 'tu nécessitas',
+          il: 'il nécessita',
+          nous: 'nous nécessitâmes',
+          vous: 'vous nécessitâtes',
+          ils: 'ils nécessitèrent'
         },
         passeAnterieur: {
           je: 'j\'eus nécessité',
-          tu: ' eus nécessité',
-          il: ' eut nécessité',
-          nous: ' eûmes nécessité',
-          vous: ' eûtes nécessité',
-          ils: ' eurent nécessité'
+          tu: 'tu eus nécessité',
+          il: 'il eut nécessité',
+          nous: 'nous eûmes nécessité',
+          vous: 'vous eûtes nécessité',
+          ils: 'ils eurent nécessité'
         },
         futurSimple: {
           je: 'je nécessiterai',
-          tu: ' nécessiteras',
-          il: ' nécessitera',
-          nous: ' nécessiterons',
-          vous: ' nécessiterez',
-          ils: ' nécessiteront'
+          tu: 'tu nécessiteras',
+          il: 'il nécessitera',
+          nous: 'nous nécessiterons',
+          vous: 'vous nécessiterez',
+          ils: 'ils nécessiteront'
         },
         futurAnterieur: {
           je: 'j\'aurai nécessité',
-          tu: ' auras nécessité',
-          il: ' aura nécessité',
-          nous: ' aurons nécessité',
-          vous: ' aurez nécessité',
-          ils: ' auront nécessité'
+          tu: 'tu auras nécessité',
+          il: 'il aura nécessité',
+          nous: 'nous aurons nécessité',
+          vous: 'vous aurez nécessité',
+          ils: 'ils auront nécessité'
         }
       },
       conditionnel: {
         present: {
           je: 'je nécessiterais',
-          tu: ' nécessiterais',
-          il: ' nécessiterait',
-          nous: ' nécessiterions',
-          vous: ' nécessiteriez',
-          ils: ' nécessiteraient'
+          tu: 'tu nécessiterais',
+          il: 'il nécessiterait',
+          nous: 'nous nécessiterions',
+          vous: 'vous nécessiteriez',
+          ils: 'ils nécessiteraient'
         },
         passe: {
           je: 'j\'aurais nécessité',
-          tu: ' aurais nécessité',
-          il: ' aurait nécessité',
-          nous: ' aurions nécessité',
-          vous: ' auriez nécessité',
-          ils: ' auraient nécessité'
+          tu: 'tu aurais nécessité',
+          il: 'il aurait nécessité',
+          nous: 'nous aurions nécessité',
+          vous: 'vous auriez nécessité',
+          ils: 'ils auraient nécessité'
         }
       },
       subjonctif: {
@@ -918,13 +918,13 @@ export const verbsN = [
       imperatif: {
         present: {
           je: 'nécessite',
-          nous: 'nécessitons',
-          vous: 'nécessitez'
+          nous: 'nous nécessitons',
+          vous: 'vous nécessitez'
         },
         passe: {
           je: 'aie nécessité',
-          nous: 'ayons nécessité',
-          vous: 'ayez nécessité'
+          nous: 'nous ayons nécessité',
+          vous: 'vous ayez nécessité'
         }
       },
       infinitif: {
@@ -941,7 +941,7 @@ export const verbsN = [
         },
         passe: {
           je: 'nécessité',
-          nous: 'ayant nécessité'
+          nous: 'nous ayant nécessité'
         }
       },
       gerondif: {
@@ -959,85 +959,85 @@ export const verbsN = [
       indicatif: {
         present: {
           je: 'je néglige',
-          tu: ' négliges',
-          il: ' néglige',
-          nous: ' négligeons',
-          vous: ' négligez',
-          ils: ' négligent'
+          tu: 'tu négliges',
+          il: 'il néglige',
+          nous: 'nous négligeons',
+          vous: 'vous négligez',
+          ils: 'ils négligent'
         },
         passeCompose: {
           je: 'j\'ai négligé',
-          tu: ' as négligé',
-          il: ' a négligé',
-          nous: ' avons négligé',
-          vous: ' avez négligé',
-          ils: ' ont négligé'
+          tu: 'tu as négligé',
+          il: 'il a négligé',
+          nous: 'nous avons négligé',
+          vous: 'vous avez négligé',
+          ils: 'ils ont négligé'
         },
         imparfait: {
           je: 'je négligeais',
-          tu: ' négligeais',
-          il: ' négligeait',
-          nous: ' négligions',
-          vous: ' négligiez',
-          ils: ' négligeaient'
+          tu: 'tu négligeais',
+          il: 'il négligeait',
+          nous: 'nous négligions',
+          vous: 'vous négligiez',
+          ils: 'ils négligeaient'
         },
         plusQueParfait: {
           je: 'j\'avais négligé',
-          tu: ' avais négligé',
-          il: ' avait négligé',
-          nous: ' avions négligé',
-          vous: ' aviez négligé',
-          ils: ' avaient négligé'
+          tu: 'tu avais négligé',
+          il: 'il avait négligé',
+          nous: 'nous avions négligé',
+          vous: 'vous aviez négligé',
+          ils: 'ils avaient négligé'
         },
         passeSimple: {
           je: 'je négligeai',
-          tu: ' négligeas',
-          il: ' négligea',
-          nous: ' négligeâmes',
-          vous: ' négligeâtes',
-          ils: ' négligèrent'
+          tu: 'tu négligeas',
+          il: 'il négligea',
+          nous: 'nous négligeâmes',
+          vous: 'vous négligeâtes',
+          ils: 'ils négligèrent'
         },
         passeAnterieur: {
           je: 'j\'eus négligé',
-          tu: ' eus négligé',
-          il: ' eut négligé',
-          nous: ' eûmes négligé',
-          vous: ' eûtes négligé',
-          ils: ' eurent négligé'
+          tu: 'tu eus négligé',
+          il: 'il eut négligé',
+          nous: 'nous eûmes négligé',
+          vous: 'vous eûtes négligé',
+          ils: 'ils eurent négligé'
         },
         futurSimple: {
           je: 'je négligerai',
-          tu: ' négligeras',
-          il: ' négligera',
-          nous: ' négligerons',
-          vous: ' négligerez',
-          ils: ' négligeront'
+          tu: 'tu négligeras',
+          il: 'il négligera',
+          nous: 'nous négligerons',
+          vous: 'vous négligerez',
+          ils: 'ils négligeront'
         },
         futurAnterieur: {
           je: 'j\'aurai négligé',
-          tu: ' auras négligé',
-          il: ' aura négligé',
-          nous: ' aurons négligé',
-          vous: ' aurez négligé',
-          ils: ' auront négligé'
+          tu: 'tu auras négligé',
+          il: 'il aura négligé',
+          nous: 'nous aurons négligé',
+          vous: 'vous aurez négligé',
+          ils: 'ils auront négligé'
         }
       },
       conditionnel: {
         present: {
           je: 'je négligerais',
-          tu: ' négligerais',
-          il: ' négligerait',
-          nous: ' négligerions',
-          vous: ' négligeriez',
-          ils: ' négligeraient'
+          tu: 'tu négligerais',
+          il: 'il négligerait',
+          nous: 'nous négligerions',
+          vous: 'vous négligeriez',
+          ils: 'ils négligeraient'
         },
         passe: {
           je: 'j\'aurais négligé',
-          tu: ' aurais négligé',
-          il: ' aurait négligé',
-          nous: ' aurions négligé',
-          vous: ' auriez négligé',
-          ils: ' auraient négligé'
+          tu: 'tu aurais négligé',
+          il: 'il aurait négligé',
+          nous: 'nous aurions négligé',
+          vous: 'vous auriez négligé',
+          ils: 'ils auraient négligé'
         }
       },
       subjonctif: {
@@ -1077,13 +1077,13 @@ export const verbsN = [
       imperatif: {
         present: {
           je: 'néglige',
-          nous: 'négligeons',
-          vous: 'négligez'
+          nous: 'nous négligeons',
+          vous: 'vous négligez'
         },
         passe: {
           je: 'aie négligé',
-          nous: 'ayons négligé',
-          vous: 'ayez négligé'
+          nous: 'nous ayons négligé',
+          vous: 'vous ayez négligé'
         }
       },
       infinitif: {
@@ -1100,7 +1100,7 @@ export const verbsN = [
         },
         passe: {
           je: 'négligé',
-          nous: 'ayant négligé'
+          nous: 'nous ayant négligé'
         }
       },
       gerondif: {
@@ -1118,85 +1118,85 @@ export const verbsN = [
       indicatif: {
         present: {
           je: 'je négocie',
-          tu: ' négocies',
-          il: ' négocie',
-          nous: ' négocions',
-          vous: ' négociez',
-          ils: ' négocient'
+          tu: 'tu négocies',
+          il: 'il négocie',
+          nous: 'nous négocions',
+          vous: 'vous négociez',
+          ils: 'ils négocient'
         },
         passeCompose: {
           je: 'j\'ai négocié',
-          tu: ' as négocié',
-          il: ' a négocié',
-          nous: ' avons négocié',
-          vous: ' avez négocié',
-          ils: ' ont négocié'
+          tu: 'tu as négocié',
+          il: 'il a négocié',
+          nous: 'nous avons négocié',
+          vous: 'vous avez négocié',
+          ils: 'ils ont négocié'
         },
         imparfait: {
           je: 'je négociais',
-          tu: ' négociais',
-          il: ' négociait',
-          nous: ' négociions',
-          vous: ' négociiez',
-          ils: ' négociaient'
+          tu: 'tu négociais',
+          il: 'il négociait',
+          nous: 'nous négociions',
+          vous: 'vous négociiez',
+          ils: 'ils négociaient'
         },
         plusQueParfait: {
           je: 'j\'avais négocié',
-          tu: ' avais négocié',
-          il: ' avait négocié',
-          nous: ' avions négocié',
-          vous: ' aviez négocié',
-          ils: ' avaient négocié'
+          tu: 'tu avais négocié',
+          il: 'il avait négocié',
+          nous: 'nous avions négocié',
+          vous: 'vous aviez négocié',
+          ils: 'ils avaient négocié'
         },
         passeSimple: {
           je: 'je négociai',
-          tu: ' négocias',
-          il: ' négocia',
-          nous: ' négociâmes',
-          vous: ' négociâtes',
-          ils: ' négocièrent'
+          tu: 'tu négocias',
+          il: 'il négocia',
+          nous: 'nous négociâmes',
+          vous: 'vous négociâtes',
+          ils: 'ils négocièrent'
         },
         passeAnterieur: {
           je: 'j\'eus négocié',
-          tu: ' eus négocié',
-          il: ' eut négocié',
-          nous: ' eûmes négocié',
-          vous: ' eûtes négocié',
-          ils: ' eurent négocié'
+          tu: 'tu eus négocié',
+          il: 'il eut négocié',
+          nous: 'nous eûmes négocié',
+          vous: 'vous eûtes négocié',
+          ils: 'ils eurent négocié'
         },
         futurSimple: {
           je: 'je négocierai',
-          tu: ' négocieras',
-          il: ' négociera',
-          nous: ' négocierons',
-          vous: ' négocierez',
-          ils: ' négocieront'
+          tu: 'tu négocieras',
+          il: 'il négociera',
+          nous: 'nous négocierons',
+          vous: 'vous négocierez',
+          ils: 'ils négocieront'
         },
         futurAnterieur: {
           je: 'j\'aurai négocié',
-          tu: ' auras négocié',
-          il: ' aura négocié',
-          nous: ' aurons négocié',
-          vous: ' aurez négocié',
-          ils: ' auront négocié'
+          tu: 'tu auras négocié',
+          il: 'il aura négocié',
+          nous: 'nous aurons négocié',
+          vous: 'vous aurez négocié',
+          ils: 'ils auront négocié'
         }
       },
       conditionnel: {
         present: {
           je: 'je négocierais',
-          tu: ' négocierais',
-          il: ' négocierait',
-          nous: ' négocierions',
-          vous: ' négocieriez',
-          ils: ' négocieraient'
+          tu: 'tu négocierais',
+          il: 'il négocierait',
+          nous: 'nous négocierions',
+          vous: 'vous négocieriez',
+          ils: 'ils négocieraient'
         },
         passe: {
           je: 'j\'aurais négocié',
-          tu: ' aurais négocié',
-          il: ' aurait négocié',
-          nous: ' aurions négocié',
-          vous: ' auriez négocié',
-          ils: ' auraient négocié'
+          tu: 'tu aurais négocié',
+          il: 'il aurait négocié',
+          nous: 'nous aurions négocié',
+          vous: 'vous auriez négocié',
+          ils: 'ils auraient négocié'
         }
       },
       subjonctif: {
@@ -1236,13 +1236,13 @@ export const verbsN = [
       imperatif: {
         present: {
           je: 'négocie',
-          nous: 'négocions',
-          vous: 'négociez'
+          nous: 'nous négocions',
+          vous: 'vous négociez'
         },
         passe: {
           je: 'aie négocié',
-          nous: 'ayons négocié',
-          vous: 'ayez négocié'
+          nous: 'nous ayons négocié',
+          vous: 'vous ayez négocié'
         }
       },
       infinitif: {
@@ -1259,7 +1259,7 @@ export const verbsN = [
         },
         passe: {
           je: 'négocié',
-          nous: 'ayant négocié'
+          nous: 'nous ayant négocié'
         }
       },
       gerondif: {
@@ -1277,44 +1277,44 @@ export const verbsN = [
       indicatif: {
         present: {
           je: '-',
-          il: ' neige'
+          il: 'il neige'
         },
         passeCompose: {
           je: '-',
-          il: ' a neigé'
+          il: 'il a neigé'
         },
         imparfait: {
           je: '-',
-          il: ' neigeait'
+          il: 'il neigeait'
         },
         plusQueParfait: {
           je: '-',
-          il: ' avait neigé'
+          il: 'il avait neigé'
         },
         passeSimple: {
           je: '-',
-          il: ' neigea'
+          il: 'il neigea'
         },
         passeAnterieur: {
           je: '-',
-          il: ' eut neigé'
+          il: 'il eut neigé'
         },
         futurSimple: {
           je: '-',
-          il: ' neigera'
+          il: 'il neigera'
         },
         futurAnterieur: {
           je: '-',
-          il: ' aura neigé'
+          il: 'il aura neigé'
         }
       },
       conditionnel: {
         present: {
           je: '-',
-          il: ' neigerait'
+          il: 'il neigerait'
         },
         passe: {
-          il: ' aurait neigé'
+          il: 'il aurait neigé'
         }
       },
       subjonctif: {
@@ -1352,7 +1352,7 @@ export const verbsN = [
         },
         passe: {
           je: 'neigé',
-          nous: 'ayant neigé'
+          nous: 'nous ayant neigé'
         }
       },
       gerondif: {
@@ -1370,85 +1370,85 @@ export const verbsN = [
       indicatif: {
         present: {
           je: 'je nettoie',
-          tu: ' nettoies',
-          il: ' nettoie',
-          nous: ' nettoyons',
-          vous: ' nettoyez',
-          ils: ' nettoient'
+          tu: 'tu nettoies',
+          il: 'il nettoie',
+          nous: 'nous nettoyons',
+          vous: 'vous nettoyez',
+          ils: 'ils nettoient'
         },
         passeCompose: {
           je: 'j\'ai nettoyé',
-          tu: ' as nettoyé',
-          il: ' a nettoyé',
-          nous: ' avons nettoyé',
-          vous: ' avez nettoyé',
-          ils: ' ont nettoyé'
+          tu: 'tu as nettoyé',
+          il: 'il a nettoyé',
+          nous: 'nous avons nettoyé',
+          vous: 'vous avez nettoyé',
+          ils: 'ils ont nettoyé'
         },
         imparfait: {
           je: 'je nettoyais',
-          tu: ' nettoyais',
-          il: ' nettoyait',
-          nous: ' nettoyions',
-          vous: ' nettoyiez',
-          ils: ' nettoyaient'
+          tu: 'tu nettoyais',
+          il: 'il nettoyait',
+          nous: 'nous nettoyions',
+          vous: 'vous nettoyiez',
+          ils: 'ils nettoyaient'
         },
         plusQueParfait: {
           je: 'j\'avais nettoyé',
-          tu: ' avais nettoyé',
-          il: ' avait nettoyé',
-          nous: ' avions nettoyé',
-          vous: ' aviez nettoyé',
-          ils: ' avaient nettoyé'
+          tu: 'tu avais nettoyé',
+          il: 'il avait nettoyé',
+          nous: 'nous avions nettoyé',
+          vous: 'vous aviez nettoyé',
+          ils: 'ils avaient nettoyé'
         },
         passeSimple: {
           je: 'je nettoyai',
-          tu: ' nettoyas',
-          il: ' nettoya',
-          nous: ' nettoyâmes',
-          vous: ' nettoyâtes',
-          ils: ' nettoyèrent'
+          tu: 'tu nettoyas',
+          il: 'il nettoya',
+          nous: 'nous nettoyâmes',
+          vous: 'vous nettoyâtes',
+          ils: 'ils nettoyèrent'
         },
         passeAnterieur: {
           je: 'j\'eus nettoyé',
-          tu: ' eus nettoyé',
-          il: ' eut nettoyé',
-          nous: ' eûmes nettoyé',
-          vous: ' eûtes nettoyé',
-          ils: ' eurent nettoyé'
+          tu: 'tu eus nettoyé',
+          il: 'il eut nettoyé',
+          nous: 'nous eûmes nettoyé',
+          vous: 'vous eûtes nettoyé',
+          ils: 'ils eurent nettoyé'
         },
         futurSimple: {
           je: 'je nettoierai',
-          tu: ' nettoieras',
-          il: ' nettoiera',
-          nous: ' nettoierons',
-          vous: ' nettoierez',
-          ils: ' nettoieront'
+          tu: 'tu nettoieras',
+          il: 'il nettoiera',
+          nous: 'nous nettoierons',
+          vous: 'vous nettoierez',
+          ils: 'ils nettoieront'
         },
         futurAnterieur: {
           je: 'j\'aurai nettoyé',
-          tu: ' auras nettoyé',
-          il: ' aura nettoyé',
-          nous: ' aurons nettoyé',
-          vous: ' aurez nettoyé',
-          ils: ' auront nettoyé'
+          tu: 'tu auras nettoyé',
+          il: 'il aura nettoyé',
+          nous: 'nous aurons nettoyé',
+          vous: 'vous aurez nettoyé',
+          ils: 'ils auront nettoyé'
         }
       },
       conditionnel: {
         present: {
           je: 'je nettoierais',
-          tu: ' nettoierais',
-          il: ' nettoierait',
-          nous: ' nettoierions',
-          vous: ' nettoieriez',
-          ils: ' nettoieraient'
+          tu: 'tu nettoierais',
+          il: 'il nettoierait',
+          nous: 'nous nettoierions',
+          vous: 'vous nettoieriez',
+          ils: 'ils nettoieraient'
         },
         passe: {
           je: 'j\'aurais nettoyé',
-          tu: ' aurais nettoyé',
-          il: ' aurait nettoyé',
-          nous: ' aurions nettoyé',
-          vous: ' auriez nettoyé',
-          ils: ' auraient nettoyé'
+          tu: 'tu aurais nettoyé',
+          il: 'il aurait nettoyé',
+          nous: 'nous aurions nettoyé',
+          vous: 'vous auriez nettoyé',
+          ils: 'ils auraient nettoyé'
         }
       },
       subjonctif: {
@@ -1488,13 +1488,13 @@ export const verbsN = [
       imperatif: {
         present: {
           je: 'nettoie',
-          nous: 'nettoyons',
-          vous: 'nettoyez'
+          nous: 'nous nettoyons',
+          vous: 'vous nettoyez'
         },
         passe: {
           je: 'aie nettoyé',
-          nous: 'ayons nettoyé',
-          vous: 'ayez nettoyé'
+          nous: 'nous ayons nettoyé',
+          vous: 'vous ayez nettoyé'
         }
       },
       infinitif: {
@@ -1511,7 +1511,7 @@ export const verbsN = [
         },
         passe: {
           je: 'nettoyé',
-          nous: 'ayant nettoyé'
+          nous: 'nous ayant nettoyé'
         }
       },
       gerondif: {
@@ -1529,85 +1529,85 @@ export const verbsN = [
       indicatif: {
         present: {
           je: 'je nie',
-          tu: ' nies',
-          il: ' nie',
-          nous: ' nions',
-          vous: ' niez',
-          ils: ' nient'
+          tu: 'tu nies',
+          il: 'il nie',
+          nous: 'nous nions',
+          vous: 'vous niez',
+          ils: 'ils nient'
         },
         passeCompose: {
           je: 'j\'ai nié',
-          tu: ' as nié',
-          il: ' a nié',
-          nous: ' avons nié',
-          vous: ' avez nié',
-          ils: ' ont nié'
+          tu: 'tu as nié',
+          il: 'il a nié',
+          nous: 'nous avons nié',
+          vous: 'vous avez nié',
+          ils: 'ils ont nié'
         },
         imparfait: {
           je: 'je niais',
-          tu: ' niais',
-          il: ' niait',
-          nous: ' niions',
-          vous: ' niiez',
-          ils: ' niaient'
+          tu: 'tu niais',
+          il: 'il niait',
+          nous: 'nous niions',
+          vous: 'vous niiez',
+          ils: 'ils niaient'
         },
         plusQueParfait: {
           je: 'j\'avais nié',
-          tu: ' avais nié',
-          il: ' avait nié',
-          nous: ' avions nié',
-          vous: ' aviez nié',
-          ils: ' avaient nié'
+          tu: 'tu avais nié',
+          il: 'il avait nié',
+          nous: 'nous avions nié',
+          vous: 'vous aviez nié',
+          ils: 'ils avaient nié'
         },
         passeSimple: {
           je: 'je niai',
-          tu: ' nias',
-          il: ' nia',
-          nous: ' niâmes',
-          vous: ' niâtes',
-          ils: ' nièrent'
+          tu: 'tu nias',
+          il: 'il nia',
+          nous: 'nous niâmes',
+          vous: 'vous niâtes',
+          ils: 'ils nièrent'
         },
         passeAnterieur: {
           je: 'j\'eus nié',
-          tu: ' eus nié',
-          il: ' eut nié',
-          nous: ' eûmes nié',
-          vous: ' eûtes nié',
-          ils: ' eurent nié'
+          tu: 'tu eus nié',
+          il: 'il eut nié',
+          nous: 'nous eûmes nié',
+          vous: 'vous eûtes nié',
+          ils: 'ils eurent nié'
         },
         futurSimple: {
           je: 'je nierai',
-          tu: ' nieras',
-          il: ' niera',
-          nous: ' nierons',
-          vous: ' nierez',
-          ils: ' nieront'
+          tu: 'tu nieras',
+          il: 'il niera',
+          nous: 'nous nierons',
+          vous: 'vous nierez',
+          ils: 'ils nieront'
         },
         futurAnterieur: {
           je: 'j\'aurai nié',
-          tu: ' auras nié',
-          il: ' aura nié',
-          nous: ' aurons nié',
-          vous: ' aurez nié',
-          ils: ' auront nié'
+          tu: 'tu auras nié',
+          il: 'il aura nié',
+          nous: 'nous aurons nié',
+          vous: 'vous aurez nié',
+          ils: 'ils auront nié'
         }
       },
       conditionnel: {
         present: {
           je: 'je nierais',
-          tu: ' nierais',
-          il: ' nierait',
-          nous: ' nierions',
-          vous: ' nieriez',
-          ils: ' nieraient'
+          tu: 'tu nierais',
+          il: 'il nierait',
+          nous: 'nous nierions',
+          vous: 'vous nieriez',
+          ils: 'ils nieraient'
         },
         passe: {
           je: 'j\'aurais nié',
-          tu: ' aurais nié',
-          il: ' aurait nié',
-          nous: ' aurions nié',
-          vous: ' auriez nié',
-          ils: ' auraient nié'
+          tu: 'tu aurais nié',
+          il: 'il aurait nié',
+          nous: 'nous aurions nié',
+          vous: 'vous auriez nié',
+          ils: 'ils auraient nié'
         }
       },
       subjonctif: {
@@ -1647,13 +1647,13 @@ export const verbsN = [
       imperatif: {
         present: {
           je: 'nie',
-          nous: 'nions',
-          vous: 'niez'
+          nous: 'nous nions',
+          vous: 'vous niez'
         },
         passe: {
           je: 'aie nié',
-          nous: 'ayons nié',
-          vous: 'ayez nié'
+          nous: 'nous ayons nié',
+          vous: 'vous ayez nié'
         }
       },
       infinitif: {
@@ -1670,7 +1670,7 @@ export const verbsN = [
         },
         passe: {
           je: 'nié',
-          nous: 'ayant nié'
+          nous: 'nous ayant nié'
         }
       },
       gerondif: {
@@ -1688,85 +1688,85 @@ export const verbsN = [
       indicatif: {
         present: {
           je: 'je nivelle',
-          tu: ' nivelles',
-          il: ' nivelle',
-          nous: ' nivelons',
-          vous: ' nivelez',
-          ils: ' nivellent'
+          tu: 'tu nivelles',
+          il: 'il nivelle',
+          nous: 'nous nivelons',
+          vous: 'vous nivelez',
+          ils: 'ils nivellent'
         },
         passeCompose: {
           je: 'j\'ai nivelé',
-          tu: ' as nivelé',
-          il: ' a nivelé',
-          nous: ' avons nivelé',
-          vous: ' avez nivelé',
-          ils: ' ont nivelé'
+          tu: 'tu as nivelé',
+          il: 'il a nivelé',
+          nous: 'nous avons nivelé',
+          vous: 'vous avez nivelé',
+          ils: 'ils ont nivelé'
         },
         imparfait: {
           je: 'je nivelais',
-          tu: ' nivelais',
-          il: ' nivelait',
-          nous: ' nivelions',
-          vous: ' niveliez',
-          ils: ' nivelaient'
+          tu: 'tu nivelais',
+          il: 'il nivelait',
+          nous: 'nous nivelions',
+          vous: 'vous niveliez',
+          ils: 'ils nivelaient'
         },
         plusQueParfait: {
           je: 'j\'avais nivelé',
-          tu: ' avais nivelé',
-          il: ' avait nivelé',
-          nous: ' avions nivelé',
-          vous: ' aviez nivelé',
-          ils: ' avaient nivelé'
+          tu: 'tu avais nivelé',
+          il: 'il avait nivelé',
+          nous: 'nous avions nivelé',
+          vous: 'vous aviez nivelé',
+          ils: 'ils avaient nivelé'
         },
         passeSimple: {
           je: 'je nivelai',
-          tu: ' nivelas',
-          il: ' nivela',
-          nous: ' nivelâmes',
-          vous: ' nivelâtes',
-          ils: ' nivelèrent'
+          tu: 'tu nivelas',
+          il: 'il nivela',
+          nous: 'nous nivelâmes',
+          vous: 'vous nivelâtes',
+          ils: 'ils nivelèrent'
         },
         passeAnterieur: {
           je: 'j\'eus nivelé',
-          tu: ' eus nivelé',
-          il: ' eut nivelé',
-          nous: ' eûmes nivelé',
-          vous: ' eûtes nivelé',
-          ils: ' eurent nivelé'
+          tu: 'tu eus nivelé',
+          il: 'il eut nivelé',
+          nous: 'nous eûmes nivelé',
+          vous: 'vous eûtes nivelé',
+          ils: 'ils eurent nivelé'
         },
         futurSimple: {
           je: 'je nivellerai',
-          tu: ' nivelleras',
-          il: ' nivellera',
-          nous: ' nivellerons',
-          vous: ' nivellerez',
-          ils: ' nivelleront'
+          tu: 'tu nivelleras',
+          il: 'il nivellera',
+          nous: 'nous nivellerons',
+          vous: 'vous nivellerez',
+          ils: 'ils nivelleront'
         },
         futurAnterieur: {
           je: 'j\'aurai nivelé',
-          tu: ' auras nivelé',
-          il: ' aura nivelé',
-          nous: ' aurons nivelé',
-          vous: ' aurez nivelé',
-          ils: ' auront nivelé'
+          tu: 'tu auras nivelé',
+          il: 'il aura nivelé',
+          nous: 'nous aurons nivelé',
+          vous: 'vous aurez nivelé',
+          ils: 'ils auront nivelé'
         }
       },
       conditionnel: {
         present: {
           je: 'je nivellerais',
-          tu: ' nivellerais',
-          il: ' nivellerait',
-          nous: ' nivellerions',
-          vous: ' nivelleriez',
-          ils: ' nivelleraient'
+          tu: 'tu nivellerais',
+          il: 'il nivellerait',
+          nous: 'nous nivellerions',
+          vous: 'vous nivelleriez',
+          ils: 'ils nivelleraient'
         },
         passe: {
           je: 'j\'aurais nivelé',
-          tu: ' aurais nivelé',
-          il: ' aurait nivelé',
-          nous: ' aurions nivelé',
-          vous: ' auriez nivelé',
-          ils: ' auraient nivelé'
+          tu: 'tu aurais nivelé',
+          il: 'il aurait nivelé',
+          nous: 'nous aurions nivelé',
+          vous: 'vous auriez nivelé',
+          ils: 'ils auraient nivelé'
         }
       },
       subjonctif: {
@@ -1806,13 +1806,13 @@ export const verbsN = [
       imperatif: {
         present: {
           je: 'nivelle',
-          nous: 'nivelons',
-          vous: 'nivelez'
+          nous: 'nous nivelons',
+          vous: 'vous nivelez'
         },
         passe: {
           je: 'aie nivelé',
-          nous: 'ayons nivelé',
-          vous: 'ayez nivelé'
+          nous: 'nous ayons nivelé',
+          vous: 'vous ayez nivelé'
         }
       },
       infinitif: {
@@ -1829,7 +1829,7 @@ export const verbsN = [
         },
         passe: {
           je: 'nivelé',
-          nous: 'ayant nivelé'
+          nous: 'nous ayant nivelé'
         }
       },
       gerondif: {
@@ -1847,85 +1847,85 @@ export const verbsN = [
       indicatif: {
         present: {
           je: 'je noircis',
-          tu: ' noircis',
-          il: ' noircit',
-          nous: ' noircissons',
-          vous: ' noircissez',
-          ils: ' noircissent'
+          tu: 'tu noircis',
+          il: 'il noircit',
+          nous: 'nous noircissons',
+          vous: 'vous noircissez',
+          ils: 'ils noircissent'
         },
         passeCompose: {
           je: 'j\'ai noirci',
-          tu: ' as noirci',
-          il: ' a noirci',
-          nous: ' avons noirci',
-          vous: ' avez noirci',
-          ils: ' ont noirci'
+          tu: 'tu as noirci',
+          il: 'il a noirci',
+          nous: 'nous avons noirci',
+          vous: 'vous avez noirci',
+          ils: 'ils ont noirci'
         },
         imparfait: {
           je: 'je noircissais',
-          tu: ' noircissais',
-          il: ' noircissait',
-          nous: ' noircissions',
-          vous: ' noircissiez',
-          ils: ' noircissaient'
+          tu: 'tu noircissais',
+          il: 'il noircissait',
+          nous: 'nous noircissions',
+          vous: 'vous noircissiez',
+          ils: 'ils noircissaient'
         },
         plusQueParfait: {
           je: 'j\'avais noirci',
-          tu: ' avais noirci',
-          il: ' avait noirci',
-          nous: ' avions noirci',
-          vous: ' aviez noirci',
-          ils: ' avaient noirci'
+          tu: 'tu avais noirci',
+          il: 'il avait noirci',
+          nous: 'nous avions noirci',
+          vous: 'vous aviez noirci',
+          ils: 'ils avaient noirci'
         },
         passeSimple: {
           je: 'je noircis',
-          tu: ' noircis',
-          il: ' noircit',
-          nous: ' noircîmes',
-          vous: ' noircîtes',
-          ils: ' noircirent'
+          tu: 'tu noircis',
+          il: 'il noircit',
+          nous: 'nous noircîmes',
+          vous: 'vous noircîtes',
+          ils: 'ils noircirent'
         },
         passeAnterieur: {
           je: 'j\'eus noirci',
-          tu: ' eus noirci',
-          il: ' eut noirci',
-          nous: ' eûmes noirci',
-          vous: ' eûtes noirci',
-          ils: ' eurent noirci'
+          tu: 'tu eus noirci',
+          il: 'il eut noirci',
+          nous: 'nous eûmes noirci',
+          vous: 'vous eûtes noirci',
+          ils: 'ils eurent noirci'
         },
         futurSimple: {
           je: 'je noircirai',
-          tu: ' noirciras',
-          il: ' noircira',
-          nous: ' noircirons',
-          vous: ' noircirez',
-          ils: ' noirciront'
+          tu: 'tu noirciras',
+          il: 'il noircira',
+          nous: 'nous noircirons',
+          vous: 'vous noircirez',
+          ils: 'ils noirciront'
         },
         futurAnterieur: {
           je: 'j\'aurai noirci',
-          tu: ' auras noirci',
-          il: ' aura noirci',
-          nous: ' aurons noirci',
-          vous: ' aurez noirci',
-          ils: ' auront noirci'
+          tu: 'tu auras noirci',
+          il: 'il aura noirci',
+          nous: 'nous aurons noirci',
+          vous: 'vous aurez noirci',
+          ils: 'ils auront noirci'
         }
       },
       conditionnel: {
         present: {
           je: 'je noircirais',
-          tu: ' noircirais',
-          il: ' noircirait',
-          nous: ' noircirions',
-          vous: ' noirciriez',
-          ils: ' noirciraient'
+          tu: 'tu noircirais',
+          il: 'il noircirait',
+          nous: 'nous noircirions',
+          vous: 'vous noirciriez',
+          ils: 'ils noirciraient'
         },
         passe: {
           je: 'j\'aurais noirci',
-          tu: ' aurais noirci',
-          il: ' aurait noirci',
-          nous: ' aurions noirci',
-          vous: ' auriez noirci',
-          ils: ' auraient noirci'
+          tu: 'tu aurais noirci',
+          il: 'il aurait noirci',
+          nous: 'nous aurions noirci',
+          vous: 'vous auriez noirci',
+          ils: 'ils auraient noirci'
         }
       },
       subjonctif: {
@@ -1965,13 +1965,13 @@ export const verbsN = [
       imperatif: {
         present: {
           je: 'noircis',
-          nous: 'noircissons',
-          vous: 'noircissez'
+          nous: 'nous noircissons',
+          vous: 'vous noircissez'
         },
         passe: {
           je: 'aie noirci',
-          nous: 'ayons noirci',
-          vous: 'ayez noirci'
+          nous: 'nous ayons noirci',
+          vous: 'vous ayez noirci'
         }
       },
       infinitif: {
@@ -1988,7 +1988,7 @@ export const verbsN = [
         },
         passe: {
           je: 'noirci',
-          nous: 'ayant noirci'
+          nous: 'nous ayant noirci'
         }
       },
       gerondif: {
@@ -2006,85 +2006,85 @@ export const verbsN = [
       indicatif: {
         present: {
           je: 'je nomme',
-          tu: ' nommes',
-          il: ' nomme',
-          nous: ' nommons',
-          vous: ' nommez',
-          ils: ' nomment'
+          tu: 'tu nommes',
+          il: 'il nomme',
+          nous: 'nous nommons',
+          vous: 'vous nommez',
+          ils: 'ils nomment'
         },
         passeCompose: {
           je: 'j\'ai nommé',
-          tu: ' as nommé',
-          il: ' a nommé',
-          nous: ' avons nommé',
-          vous: ' avez nommé',
-          ils: ' ont nommé'
+          tu: 'tu as nommé',
+          il: 'il a nommé',
+          nous: 'nous avons nommé',
+          vous: 'vous avez nommé',
+          ils: 'ils ont nommé'
         },
         imparfait: {
           je: 'je nommais',
-          tu: ' nommais',
-          il: ' nommait',
-          nous: ' nommions',
-          vous: ' nommiez',
-          ils: ' nommaient'
+          tu: 'tu nommais',
+          il: 'il nommait',
+          nous: 'nous nommions',
+          vous: 'vous nommiez',
+          ils: 'ils nommaient'
         },
         plusQueParfait: {
           je: 'j\'avais nommé',
-          tu: ' avais nommé',
-          il: ' avait nommé',
-          nous: ' avions nommé',
-          vous: ' aviez nommé',
-          ils: ' avaient nommé'
+          tu: 'tu avais nommé',
+          il: 'il avait nommé',
+          nous: 'nous avions nommé',
+          vous: 'vous aviez nommé',
+          ils: 'ils avaient nommé'
         },
         passeSimple: {
           je: 'je nommai',
-          tu: ' nommas',
-          il: ' nomma',
-          nous: ' nommâmes',
-          vous: ' nommâtes',
-          ils: ' nommèrent'
+          tu: 'tu nommas',
+          il: 'il nomma',
+          nous: 'nous nommâmes',
+          vous: 'vous nommâtes',
+          ils: 'ils nommèrent'
         },
         passeAnterieur: {
           je: 'j\'eus nommé',
-          tu: ' eus nommé',
-          il: ' eut nommé',
-          nous: ' eûmes nommé',
-          vous: ' eûtes nommé',
-          ils: ' eurent nommé'
+          tu: 'tu eus nommé',
+          il: 'il eut nommé',
+          nous: 'nous eûmes nommé',
+          vous: 'vous eûtes nommé',
+          ils: 'ils eurent nommé'
         },
         futurSimple: {
           je: 'je nommerai',
-          tu: ' nommeras',
-          il: ' nommera',
-          nous: ' nommerons',
-          vous: ' nommerez',
-          ils: ' nommeront'
+          tu: 'tu nommeras',
+          il: 'il nommera',
+          nous: 'nous nommerons',
+          vous: 'vous nommerez',
+          ils: 'ils nommeront'
         },
         futurAnterieur: {
           je: 'j\'aurai nommé',
-          tu: ' auras nommé',
-          il: ' aura nommé',
-          nous: ' aurons nommé',
-          vous: ' aurez nommé',
-          ils: ' auront nommé'
+          tu: 'tu auras nommé',
+          il: 'il aura nommé',
+          nous: 'nous aurons nommé',
+          vous: 'vous aurez nommé',
+          ils: 'ils auront nommé'
         }
       },
       conditionnel: {
         present: {
           je: 'je nommerais',
-          tu: ' nommerais',
-          il: ' nommerait',
-          nous: ' nommerions',
-          vous: ' nommeriez',
-          ils: ' nommeraient'
+          tu: 'tu nommerais',
+          il: 'il nommerait',
+          nous: 'nous nommerions',
+          vous: 'vous nommeriez',
+          ils: 'ils nommeraient'
         },
         passe: {
           je: 'j\'aurais nommé',
-          tu: ' aurais nommé',
-          il: ' aurait nommé',
-          nous: ' aurions nommé',
-          vous: ' auriez nommé',
-          ils: ' auraient nommé'
+          tu: 'tu aurais nommé',
+          il: 'il aurait nommé',
+          nous: 'nous aurions nommé',
+          vous: 'vous auriez nommé',
+          ils: 'ils auraient nommé'
         }
       },
       subjonctif: {
@@ -2124,13 +2124,13 @@ export const verbsN = [
       imperatif: {
         present: {
           je: 'nomme',
-          nous: 'nommons',
-          vous: 'nommez'
+          nous: 'nous nommons',
+          vous: 'vous nommez'
         },
         passe: {
           je: 'aie nommé',
-          nous: 'ayons nommé',
-          vous: 'ayez nommé'
+          nous: 'nous ayons nommé',
+          vous: 'vous ayez nommé'
         }
       },
       infinitif: {
@@ -2147,7 +2147,7 @@ export const verbsN = [
         },
         passe: {
           je: 'nommé',
-          nous: 'ayant nommé'
+          nous: 'nous ayant nommé'
         }
       },
       gerondif: {
@@ -2165,85 +2165,85 @@ export const verbsN = [
       indicatif: {
         present: {
           je: 'je note',
-          tu: ' notes',
-          il: ' note',
-          nous: ' notons',
-          vous: ' notez',
-          ils: ' notent'
+          tu: 'tu notes',
+          il: 'il note',
+          nous: 'nous notons',
+          vous: 'vous notez',
+          ils: 'ils notent'
         },
         passeCompose: {
           je: 'j\'ai noté',
-          tu: ' as noté',
-          il: ' a noté',
-          nous: ' avons noté',
-          vous: ' avez noté',
-          ils: ' ont noté'
+          tu: 'tu as noté',
+          il: 'il a noté',
+          nous: 'nous avons noté',
+          vous: 'vous avez noté',
+          ils: 'ils ont noté'
         },
         imparfait: {
           je: 'je notais',
-          tu: ' notais',
-          il: ' notait',
-          nous: ' notions',
-          vous: ' notiez',
-          ils: ' notaient'
+          tu: 'tu notais',
+          il: 'il notait',
+          nous: 'nous notions',
+          vous: 'vous notiez',
+          ils: 'ils notaient'
         },
         plusQueParfait: {
           je: 'j\'avais noté',
-          tu: ' avais noté',
-          il: ' avait noté',
-          nous: ' avions noté',
-          vous: ' aviez noté',
-          ils: ' avaient noté'
+          tu: 'tu avais noté',
+          il: 'il avait noté',
+          nous: 'nous avions noté',
+          vous: 'vous aviez noté',
+          ils: 'ils avaient noté'
         },
         passeSimple: {
           je: 'je notai',
-          tu: ' notas',
-          il: ' nota',
-          nous: ' notâmes',
-          vous: ' notâtes',
-          ils: ' notèrent'
+          tu: 'tu notas',
+          il: 'il nota',
+          nous: 'nous notâmes',
+          vous: 'vous notâtes',
+          ils: 'ils notèrent'
         },
         passeAnterieur: {
           je: 'j\'eus noté',
-          tu: ' eus noté',
-          il: ' eut noté',
-          nous: ' eûmes noté',
-          vous: ' eûtes noté',
-          ils: ' eurent noté'
+          tu: 'tu eus noté',
+          il: 'il eut noté',
+          nous: 'nous eûmes noté',
+          vous: 'vous eûtes noté',
+          ils: 'ils eurent noté'
         },
         futurSimple: {
           je: 'je noterai',
-          tu: ' noteras',
-          il: ' notera',
-          nous: ' noterons',
-          vous: ' noterez',
-          ils: ' noteront'
+          tu: 'tu noteras',
+          il: 'il notera',
+          nous: 'nous noterons',
+          vous: 'vous noterez',
+          ils: 'ils noteront'
         },
         futurAnterieur: {
           je: 'j\'aurai noté',
-          tu: ' auras noté',
-          il: ' aura noté',
-          nous: ' aurons noté',
-          vous: ' aurez noté',
-          ils: ' auront noté'
+          tu: 'tu auras noté',
+          il: 'il aura noté',
+          nous: 'nous aurons noté',
+          vous: 'vous aurez noté',
+          ils: 'ils auront noté'
         }
       },
       conditionnel: {
         present: {
           je: 'je noterais',
-          tu: ' noterais',
-          il: ' noterait',
-          nous: ' noterions',
-          vous: ' noteriez',
-          ils: ' noteraient'
+          tu: 'tu noterais',
+          il: 'il noterait',
+          nous: 'nous noterions',
+          vous: 'vous noteriez',
+          ils: 'ils noteraient'
         },
         passe: {
           je: 'j\'aurais noté',
-          tu: ' aurais noté',
-          il: ' aurait noté',
-          nous: ' aurions noté',
-          vous: ' auriez noté',
-          ils: ' auraient noté'
+          tu: 'tu aurais noté',
+          il: 'il aurait noté',
+          nous: 'nous aurions noté',
+          vous: 'vous auriez noté',
+          ils: 'ils auraient noté'
         }
       },
       subjonctif: {
@@ -2283,13 +2283,13 @@ export const verbsN = [
       imperatif: {
         present: {
           je: 'note',
-          nous: 'notons',
-          vous: 'notez'
+          nous: 'nous notons',
+          vous: 'vous notez'
         },
         passe: {
           je: 'aie noté',
-          nous: 'ayons noté',
-          vous: 'ayez noté'
+          nous: 'nous ayons noté',
+          vous: 'vous ayez noté'
         }
       },
       infinitif: {
@@ -2306,7 +2306,7 @@ export const verbsN = [
         },
         passe: {
           je: 'noté',
-          nous: 'ayant noté'
+          nous: 'nous ayant noté'
         }
       },
       gerondif: {
@@ -2324,85 +2324,85 @@ export const verbsN = [
       indicatif: {
         present: {
           je: 'je notifie',
-          tu: ' notifies',
-          il: ' notifie',
-          nous: ' notifions',
-          vous: ' notifiez',
-          ils: ' notifient'
+          tu: 'tu notifies',
+          il: 'il notifie',
+          nous: 'nous notifions',
+          vous: 'vous notifiez',
+          ils: 'ils notifient'
         },
         passeCompose: {
           je: 'j\'ai notifié',
-          tu: ' as notifié',
-          il: ' a notifié',
-          nous: ' avons notifié',
-          vous: ' avez notifié',
-          ils: ' ont notifié'
+          tu: 'tu as notifié',
+          il: 'il a notifié',
+          nous: 'nous avons notifié',
+          vous: 'vous avez notifié',
+          ils: 'ils ont notifié'
         },
         imparfait: {
           je: 'je notifiais',
-          tu: ' notifiais',
-          il: ' notifiait',
-          nous: ' notifiions',
-          vous: ' notifiiez',
-          ils: ' notifiaient'
+          tu: 'tu notifiais',
+          il: 'il notifiait',
+          nous: 'nous notifiions',
+          vous: 'vous notifiiez',
+          ils: 'ils notifiaient'
         },
         plusQueParfait: {
           je: 'j\'avais notifié',
-          tu: ' avais notifié',
-          il: ' avait notifié',
-          nous: ' avions notifié',
-          vous: ' aviez notifié',
-          ils: ' avaient notifié'
+          tu: 'tu avais notifié',
+          il: 'il avait notifié',
+          nous: 'nous avions notifié',
+          vous: 'vous aviez notifié',
+          ils: 'ils avaient notifié'
         },
         passeSimple: {
           je: 'je notifiai',
-          tu: ' notifias',
-          il: ' notifia',
-          nous: ' notifiâmes',
-          vous: ' notifiâtes',
-          ils: ' notifièrent'
+          tu: 'tu notifias',
+          il: 'il notifia',
+          nous: 'nous notifiâmes',
+          vous: 'vous notifiâtes',
+          ils: 'ils notifièrent'
         },
         passeAnterieur: {
           je: 'j\'eus notifié',
-          tu: ' eus notifié',
-          il: ' eut notifié',
-          nous: ' eûmes notifié',
-          vous: ' eûtes notifié',
-          ils: ' eurent notifié'
+          tu: 'tu eus notifié',
+          il: 'il eut notifié',
+          nous: 'nous eûmes notifié',
+          vous: 'vous eûtes notifié',
+          ils: 'ils eurent notifié'
         },
         futurSimple: {
           je: 'je notifierai',
-          tu: ' notifieras',
-          il: ' notifiera',
-          nous: ' notifierons',
-          vous: ' notifierez',
-          ils: ' notifieront'
+          tu: 'tu notifieras',
+          il: 'il notifiera',
+          nous: 'nous notifierons',
+          vous: 'vous notifierez',
+          ils: 'ils notifieront'
         },
         futurAnterieur: {
           je: 'j\'aurai notifié',
-          tu: ' auras notifié',
-          il: ' aura notifié',
-          nous: ' aurons notifié',
-          vous: ' aurez notifié',
-          ils: ' auront notifié'
+          tu: 'tu auras notifié',
+          il: 'il aura notifié',
+          nous: 'nous aurons notifié',
+          vous: 'vous aurez notifié',
+          ils: 'ils auront notifié'
         }
       },
       conditionnel: {
         present: {
           je: 'je notifierais',
-          tu: ' notifierais',
-          il: ' notifierait',
-          nous: ' notifierions',
-          vous: ' notifieriez',
-          ils: ' notifieraient'
+          tu: 'tu notifierais',
+          il: 'il notifierait',
+          nous: 'nous notifierions',
+          vous: 'vous notifieriez',
+          ils: 'ils notifieraient'
         },
         passe: {
           je: 'j\'aurais notifié',
-          tu: ' aurais notifié',
-          il: ' aurait notifié',
-          nous: ' aurions notifié',
-          vous: ' auriez notifié',
-          ils: ' auraient notifié'
+          tu: 'tu aurais notifié',
+          il: 'il aurait notifié',
+          nous: 'nous aurions notifié',
+          vous: 'vous auriez notifié',
+          ils: 'ils auraient notifié'
         }
       },
       subjonctif: {
@@ -2442,13 +2442,13 @@ export const verbsN = [
       imperatif: {
         present: {
           je: 'notifie',
-          nous: 'notifions',
-          vous: 'notifiez'
+          nous: 'nous notifions',
+          vous: 'vous notifiez'
         },
         passe: {
           je: 'aie notifié',
-          nous: 'ayons notifié',
-          vous: 'ayez notifié'
+          nous: 'nous ayons notifié',
+          vous: 'vous ayez notifié'
         }
       },
       infinitif: {
@@ -2465,7 +2465,7 @@ export const verbsN = [
         },
         passe: {
           je: 'notifié',
-          nous: 'ayant notifié'
+          nous: 'nous ayant notifié'
         }
       },
       gerondif: {
@@ -2483,85 +2483,85 @@ export const verbsN = [
       indicatif: {
         present: {
           je: 'je noue',
-          tu: ' noues',
-          il: ' noue',
-          nous: ' nouons',
-          vous: ' nouez',
-          ils: ' nouent'
+          tu: 'tu noues',
+          il: 'il noue',
+          nous: 'nous nouons',
+          vous: 'vous nouez',
+          ils: 'ils nouent'
         },
         passeCompose: {
           je: 'j\'ai noué',
-          tu: ' as noué',
-          il: ' a noué',
-          nous: ' avons noué',
-          vous: ' avez noué',
-          ils: ' ont noué'
+          tu: 'tu as noué',
+          il: 'il a noué',
+          nous: 'nous avons noué',
+          vous: 'vous avez noué',
+          ils: 'ils ont noué'
         },
         imparfait: {
           je: 'je nouais',
-          tu: ' nouais',
-          il: ' nouait',
-          nous: ' nouions',
-          vous: ' nouiez',
-          ils: ' nouaient'
+          tu: 'tu nouais',
+          il: 'il nouait',
+          nous: 'nous nouions',
+          vous: 'vous nouiez',
+          ils: 'ils nouaient'
         },
         plusQueParfait: {
           je: 'j\'avais noué',
-          tu: ' avais noué',
-          il: ' avait noué',
-          nous: ' avions noué',
-          vous: ' aviez noué',
-          ils: ' avaient noué'
+          tu: 'tu avais noué',
+          il: 'il avait noué',
+          nous: 'nous avions noué',
+          vous: 'vous aviez noué',
+          ils: 'ils avaient noué'
         },
         passeSimple: {
           je: 'je nouai',
-          tu: ' nouas',
-          il: ' noua',
-          nous: ' nouâmes',
-          vous: ' nouâtes',
-          ils: ' nouèrent'
+          tu: 'tu nouas',
+          il: 'il noua',
+          nous: 'nous nouâmes',
+          vous: 'vous nouâtes',
+          ils: 'ils nouèrent'
         },
         passeAnterieur: {
           je: 'j\'eus noué',
-          tu: ' eus noué',
-          il: ' eut noué',
-          nous: ' eûmes noué',
-          vous: ' eûtes noué',
-          ils: ' eurent noué'
+          tu: 'tu eus noué',
+          il: 'il eut noué',
+          nous: 'nous eûmes noué',
+          vous: 'vous eûtes noué',
+          ils: 'ils eurent noué'
         },
         futurSimple: {
           je: 'je nouerai',
-          tu: ' noueras',
-          il: ' nouera',
-          nous: ' nouerons',
-          vous: ' nouerez',
-          ils: ' noueront'
+          tu: 'tu noueras',
+          il: 'il nouera',
+          nous: 'nous nouerons',
+          vous: 'vous nouerez',
+          ils: 'ils noueront'
         },
         futurAnterieur: {
           je: 'j\'aurai noué',
-          tu: ' auras noué',
-          il: ' aura noué',
-          nous: ' aurons noué',
-          vous: ' aurez noué',
-          ils: ' auront noué'
+          tu: 'tu auras noué',
+          il: 'il aura noué',
+          nous: 'nous aurons noué',
+          vous: 'vous aurez noué',
+          ils: 'ils auront noué'
         }
       },
       conditionnel: {
         present: {
           je: 'je nouerais',
-          tu: ' nouerais',
-          il: ' nouerait',
-          nous: ' nouerions',
-          vous: ' noueriez',
-          ils: ' noueraient'
+          tu: 'tu nouerais',
+          il: 'il nouerait',
+          nous: 'nous nouerions',
+          vous: 'vous noueriez',
+          ils: 'ils noueraient'
         },
         passe: {
           je: 'j\'aurais noué',
-          tu: ' aurais noué',
-          il: ' aurait noué',
-          nous: ' aurions noué',
-          vous: ' auriez noué',
-          ils: ' auraient noué'
+          tu: 'tu aurais noué',
+          il: 'il aurait noué',
+          nous: 'nous aurions noué',
+          vous: 'vous auriez noué',
+          ils: 'ils auraient noué'
         }
       },
       subjonctif: {
@@ -2601,13 +2601,13 @@ export const verbsN = [
       imperatif: {
         present: {
           je: 'noue',
-          nous: 'nouons',
-          vous: 'nouez'
+          nous: 'nous nouons',
+          vous: 'vous nouez'
         },
         passe: {
           je: 'aie noué',
-          nous: 'ayons noué',
-          vous: 'ayez noué'
+          nous: 'nous ayons noué',
+          vous: 'vous ayez noué'
         }
       },
       infinitif: {
@@ -2624,7 +2624,7 @@ export const verbsN = [
         },
         passe: {
           je: 'noué',
-          nous: 'ayant noué'
+          nous: 'nous ayant noué'
         }
       },
       gerondif: {
@@ -2642,85 +2642,85 @@ export const verbsN = [
       indicatif: {
         present: {
           je: 'je nourris',
-          tu: ' nourris',
-          il: ' nourrit',
-          nous: ' nourrissons',
-          vous: ' nourrissez',
-          ils: ' nourrissent'
+          tu: 'tu nourris',
+          il: 'il nourrit',
+          nous: 'nous nourrissons',
+          vous: 'vous nourrissez',
+          ils: 'ils nourrissent'
         },
         passeCompose: {
           je: 'j\'ai nourri',
-          tu: ' as nourri',
-          il: ' a nourri',
-          nous: ' avons nourri',
-          vous: ' avez nourri',
-          ils: ' ont nourri'
+          tu: 'tu as nourri',
+          il: 'il a nourri',
+          nous: 'nous avons nourri',
+          vous: 'vous avez nourri',
+          ils: 'ils ont nourri'
         },
         imparfait: {
           je: 'je nourrissais',
-          tu: ' nourrissais',
-          il: ' nourrissait',
-          nous: ' nourrissions',
-          vous: ' nourrissiez',
-          ils: ' nourrissaient'
+          tu: 'tu nourrissais',
+          il: 'il nourrissait',
+          nous: 'nous nourrissions',
+          vous: 'vous nourrissiez',
+          ils: 'ils nourrissaient'
         },
         plusQueParfait: {
           je: 'j\'avais nourri',
-          tu: ' avais nourri',
-          il: ' avait nourri',
-          nous: ' avions nourri',
-          vous: ' aviez nourri',
-          ils: ' avaient nourri'
+          tu: 'tu avais nourri',
+          il: 'il avait nourri',
+          nous: 'nous avions nourri',
+          vous: 'vous aviez nourri',
+          ils: 'ils avaient nourri'
         },
         passeSimple: {
           je: 'je nourris',
-          tu: ' nourris',
-          il: ' nourrit',
-          nous: ' nourrîmes',
-          vous: ' nourrîtes',
-          ils: ' nourrirent'
+          tu: 'tu nourris',
+          il: 'il nourrit',
+          nous: 'nous nourrîmes',
+          vous: 'vous nourrîtes',
+          ils: 'ils nourrirent'
         },
         passeAnterieur: {
           je: 'j\'eus nourri',
-          tu: ' eus nourri',
-          il: ' eut nourri',
-          nous: ' eûmes nourri',
-          vous: ' eûtes nourri',
-          ils: ' eurent nourri'
+          tu: 'tu eus nourri',
+          il: 'il eut nourri',
+          nous: 'nous eûmes nourri',
+          vous: 'vous eûtes nourri',
+          ils: 'ils eurent nourri'
         },
         futurSimple: {
           je: 'je nourrirai',
-          tu: ' nourriras',
-          il: ' nourrira',
-          nous: ' nourrirons',
-          vous: ' nourrirez',
-          ils: ' nourriront'
+          tu: 'tu nourriras',
+          il: 'il nourrira',
+          nous: 'nous nourrirons',
+          vous: 'vous nourrirez',
+          ils: 'ils nourriront'
         },
         futurAnterieur: {
           je: 'j\'aurai nourri',
-          tu: ' auras nourri',
-          il: ' aura nourri',
-          nous: ' aurons nourri',
-          vous: ' aurez nourri',
-          ils: ' auront nourri'
+          tu: 'tu auras nourri',
+          il: 'il aura nourri',
+          nous: 'nous aurons nourri',
+          vous: 'vous aurez nourri',
+          ils: 'ils auront nourri'
         }
       },
       conditionnel: {
         present: {
           je: 'je nourrirais',
-          tu: ' nourrirais',
-          il: ' nourrirait',
-          nous: ' nourririons',
-          vous: ' nourririez',
-          ils: ' nourriraient'
+          tu: 'tu nourrirais',
+          il: 'il nourrirait',
+          nous: 'nous nourririons',
+          vous: 'vous nourririez',
+          ils: 'ils nourriraient'
         },
         passe: {
           je: 'j\'aurais nourri',
-          tu: ' aurais nourri',
-          il: ' aurait nourri',
-          nous: ' aurions nourri',
-          vous: ' auriez nourri',
-          ils: ' auraient nourri'
+          tu: 'tu aurais nourri',
+          il: 'il aurait nourri',
+          nous: 'nous aurions nourri',
+          vous: 'vous auriez nourri',
+          ils: 'ils auraient nourri'
         }
       },
       subjonctif: {
@@ -2760,13 +2760,13 @@ export const verbsN = [
       imperatif: {
         present: {
           je: 'nourris',
-          nous: 'nourrissons',
-          vous: 'nourrissez'
+          nous: 'nous nourrissons',
+          vous: 'vous nourrissez'
         },
         passe: {
           je: 'aie nourri',
-          nous: 'ayons nourri',
-          vous: 'ayez nourri'
+          nous: 'nous ayons nourri',
+          vous: 'vous ayez nourri'
         }
       },
       infinitif: {
@@ -2783,7 +2783,7 @@ export const verbsN = [
         },
         passe: {
           je: 'nourri',
-          nous: 'ayant nourri'
+          nous: 'nous ayant nourri'
         }
       },
       gerondif: {
@@ -2801,85 +2801,85 @@ export const verbsN = [
       indicatif: {
         present: {
           je: 'je noie',
-          tu: ' noies',
-          il: ' noie',
-          nous: ' noyons',
-          vous: ' noyez',
-          ils: ' noient'
+          tu: 'tu noies',
+          il: 'il noie',
+          nous: 'nous noyons',
+          vous: 'vous noyez',
+          ils: 'ils noient'
         },
         passeCompose: {
           je: 'j\'ai noyé',
-          tu: ' as noyé',
-          il: ' a noyé',
-          nous: ' avons noyé',
-          vous: ' avez noyé',
-          ils: ' ont noyé'
+          tu: 'tu as noyé',
+          il: 'il a noyé',
+          nous: 'nous avons noyé',
+          vous: 'vous avez noyé',
+          ils: 'ils ont noyé'
         },
         imparfait: {
           je: 'je noyais',
-          tu: ' noyais',
-          il: ' noyait',
-          nous: ' noyions',
-          vous: ' noyiez',
-          ils: ' noyaient'
+          tu: 'tu noyais',
+          il: 'il noyait',
+          nous: 'nous noyions',
+          vous: 'vous noyiez',
+          ils: 'ils noyaient'
         },
         plusQueParfait: {
           je: 'j\'avais noyé',
-          tu: ' avais noyé',
-          il: ' avait noyé',
-          nous: ' avions noyé',
-          vous: ' aviez noyé',
-          ils: ' avaient noyé'
+          tu: 'tu avais noyé',
+          il: 'il avait noyé',
+          nous: 'nous avions noyé',
+          vous: 'vous aviez noyé',
+          ils: 'ils avaient noyé'
         },
         passeSimple: {
           je: 'je noyai',
-          tu: ' noyas',
-          il: ' noya',
-          nous: ' noyâmes',
-          vous: ' noyâtes',
-          ils: ' noyèrent'
+          tu: 'tu noyas',
+          il: 'il noya',
+          nous: 'nous noyâmes',
+          vous: 'vous noyâtes',
+          ils: 'ils noyèrent'
         },
         passeAnterieur: {
           je: 'j\'eus noyé',
-          tu: ' eus noyé',
-          il: ' eut noyé',
-          nous: ' eûmes noyé',
-          vous: ' eûtes noyé',
-          ils: ' eurent noyé'
+          tu: 'tu eus noyé',
+          il: 'il eut noyé',
+          nous: 'nous eûmes noyé',
+          vous: 'vous eûtes noyé',
+          ils: 'ils eurent noyé'
         },
         futurSimple: {
           je: 'je noierai',
-          tu: ' noieras',
-          il: ' noiera',
-          nous: ' noierons',
-          vous: ' noierez',
-          ils: ' noieront'
+          tu: 'tu noieras',
+          il: 'il noiera',
+          nous: 'nous noierons',
+          vous: 'vous noierez',
+          ils: 'ils noieront'
         },
         futurAnterieur: {
           je: 'j\'aurai noyé',
-          tu: ' auras noyé',
-          il: ' aura noyé',
-          nous: ' aurons noyé',
-          vous: ' aurez noyé',
-          ils: ' auront noyé'
+          tu: 'tu auras noyé',
+          il: 'il aura noyé',
+          nous: 'nous aurons noyé',
+          vous: 'vous aurez noyé',
+          ils: 'ils auront noyé'
         }
       },
       conditionnel: {
         present: {
           je: 'je noierais',
-          tu: ' noierais',
-          il: ' noierait',
-          nous: ' noierions',
-          vous: ' noieriez',
-          ils: ' noieraient'
+          tu: 'tu noierais',
+          il: 'il noierait',
+          nous: 'nous noierions',
+          vous: 'vous noieriez',
+          ils: 'ils noieraient'
         },
         passe: {
           je: 'j\'aurais noyé',
-          tu: ' aurais noyé',
-          il: ' aurait noyé',
-          nous: ' aurions noyé',
-          vous: ' auriez noyé',
-          ils: ' auraient noyé'
+          tu: 'tu aurais noyé',
+          il: 'il aurait noyé',
+          nous: 'nous aurions noyé',
+          vous: 'vous auriez noyé',
+          ils: 'ils auraient noyé'
         }
       },
       subjonctif: {
@@ -2919,13 +2919,13 @@ export const verbsN = [
       imperatif: {
         present: {
           je: 'noie',
-          nous: 'noyons',
-          vous: 'noyez'
+          nous: 'nous noyons',
+          vous: 'vous noyez'
         },
         passe: {
           je: 'aie noyé',
-          nous: 'ayons noyé',
-          vous: 'ayez noyé'
+          nous: 'nous ayons noyé',
+          vous: 'vous ayez noyé'
         }
       },
       infinitif: {
@@ -2942,7 +2942,7 @@ export const verbsN = [
         },
         passe: {
           je: 'noyé',
-          nous: 'ayant noyé'
+          nous: 'nous ayant noyé'
         }
       },
       gerondif: {
@@ -2960,85 +2960,85 @@ export const verbsN = [
       indicatif: {
         present: {
           je: 'je nue',
-          tu: ' nues',
-          il: ' nue',
-          nous: ' nuons',
-          vous: ' nuez',
-          ils: ' nuent'
+          tu: 'tu nues',
+          il: 'il nue',
+          nous: 'nous nuons',
+          vous: 'vous nuez',
+          ils: 'ils nuent'
         },
         passeCompose: {
           je: 'j\'ai nué',
-          tu: ' as nué',
-          il: ' a nué',
-          nous: ' avons nué',
-          vous: ' avez nué',
-          ils: ' ont nué'
+          tu: 'tu as nué',
+          il: 'il a nué',
+          nous: 'nous avons nué',
+          vous: 'vous avez nué',
+          ils: 'ils ont nué'
         },
         imparfait: {
           je: 'je nuais',
-          tu: ' nuais',
-          il: ' nuait',
-          nous: ' nuions',
-          vous: ' nuiez',
-          ils: ' nuaient'
+          tu: 'tu nuais',
+          il: 'il nuait',
+          nous: 'nous nuions',
+          vous: 'vous nuiez',
+          ils: 'ils nuaient'
         },
         plusQueParfait: {
           je: 'j\'avais nué',
-          tu: ' avais nué',
-          il: ' avait nué',
-          nous: ' avions nué',
-          vous: ' aviez nué',
-          ils: ' avaient nué'
+          tu: 'tu avais nué',
+          il: 'il avait nué',
+          nous: 'nous avions nué',
+          vous: 'vous aviez nué',
+          ils: 'ils avaient nué'
         },
         passeSimple: {
           je: 'je nuai',
-          tu: ' nuas',
-          il: ' nua',
-          nous: ' nuâmes',
-          vous: ' nuâtes',
-          ils: ' nuèrent'
+          tu: 'tu nuas',
+          il: 'il nua',
+          nous: 'nous nuâmes',
+          vous: 'vous nuâtes',
+          ils: 'ils nuèrent'
         },
         passeAnterieur: {
           je: 'j\'eus nué',
-          tu: ' eus nué',
-          il: ' eut nué',
-          nous: ' eûmes nué',
-          vous: ' eûtes nué',
-          ils: ' eurent nué'
+          tu: 'tu eus nué',
+          il: 'il eut nué',
+          nous: 'nous eûmes nué',
+          vous: 'vous eûtes nué',
+          ils: 'ils eurent nué'
         },
         futurSimple: {
           je: 'je nuerai',
-          tu: ' nueras',
-          il: ' nuera',
-          nous: ' nuerons',
-          vous: ' nuerez',
-          ils: ' nueront'
+          tu: 'tu nueras',
+          il: 'il nuera',
+          nous: 'nous nuerons',
+          vous: 'vous nuerez',
+          ils: 'ils nueront'
         },
         futurAnterieur: {
           je: 'j\'aurai nué',
-          tu: ' auras nué',
-          il: ' aura nué',
-          nous: ' aurons nué',
-          vous: ' aurez nué',
-          ils: ' auront nué'
+          tu: 'tu auras nué',
+          il: 'il aura nué',
+          nous: 'nous aurons nué',
+          vous: 'vous aurez nué',
+          ils: 'ils auront nué'
         }
       },
       conditionnel: {
         present: {
           je: 'je nuerais',
-          tu: ' nuerais',
-          il: ' nuerait',
-          nous: ' nuerions',
-          vous: ' nueriez',
-          ils: ' nueraient'
+          tu: 'tu nuerais',
+          il: 'il nuerait',
+          nous: 'nous nuerions',
+          vous: 'vous nueriez',
+          ils: 'ils nueraient'
         },
         passe: {
           je: 'j\'aurais nué',
-          tu: ' aurais nué',
-          il: ' aurait nué',
-          nous: ' aurions nué',
-          vous: ' auriez nué',
-          ils: ' auraient nué'
+          tu: 'tu aurais nué',
+          il: 'il aurait nué',
+          nous: 'nous aurions nué',
+          vous: 'vous auriez nué',
+          ils: 'ils auraient nué'
         }
       },
       subjonctif: {
@@ -3078,13 +3078,13 @@ export const verbsN = [
       imperatif: {
         present: {
           je: 'nue',
-          nous: 'nuons',
-          vous: 'nuez'
+          nous: 'nous nuons',
+          vous: 'vous nuez'
         },
         passe: {
           je: 'aie nué',
-          nous: 'ayons nué',
-          vous: 'ayez nué'
+          nous: 'nous ayons nué',
+          vous: 'vous ayez nué'
         }
       },
       infinitif: {
@@ -3101,7 +3101,7 @@ export const verbsN = [
         },
         passe: {
           je: 'nué',
-          nous: 'ayant nué'
+          nous: 'nous ayant nué'
         }
       },
       gerondif: {
@@ -3119,85 +3119,85 @@ export const verbsN = [
       indicatif: {
         present: {
           je: 'je nuis',
-          tu: ' nuis',
-          il: ' nuit',
-          nous: ' nuisons',
-          vous: ' nuisez',
-          ils: ' nuisent'
+          tu: 'tu nuis',
+          il: 'il nuit',
+          nous: 'nous nuisons',
+          vous: 'vous nuisez',
+          ils: 'ils nuisent'
         },
         passeCompose: {
           je: 'j\'ai nui',
-          tu: ' as nui',
-          il: ' a nui',
-          nous: ' avons nui',
-          vous: ' avez nui',
-          ils: ' ont nui'
+          tu: 'tu as nui',
+          il: 'il a nui',
+          nous: 'nous avons nui',
+          vous: 'vous avez nui',
+          ils: 'ils ont nui'
         },
         imparfait: {
           je: 'je nuisais',
-          tu: ' nuisais',
-          il: ' nuisait',
-          nous: ' nuisions',
-          vous: ' nuisiez',
-          ils: ' nuisaient'
+          tu: 'tu nuisais',
+          il: 'il nuisait',
+          nous: 'nous nuisions',
+          vous: 'vous nuisiez',
+          ils: 'ils nuisaient'
         },
         plusQueParfait: {
           je: 'j\'avais nui',
-          tu: ' avais nui',
-          il: ' avait nui',
-          nous: ' avions nui',
-          vous: ' aviez nui',
-          ils: ' avaient nui'
+          tu: 'tu avais nui',
+          il: 'il avait nui',
+          nous: 'nous avions nui',
+          vous: 'vous aviez nui',
+          ils: 'ils avaient nui'
         },
         passeSimple: {
           je: 'je nuisis',
-          tu: ' nuisis',
-          il: ' nuisit',
-          nous: ' nuisîmes',
-          vous: ' nuisîtes',
-          ils: ' nuisirent'
+          tu: 'tu nuisis',
+          il: 'il nuisit',
+          nous: 'nous nuisîmes',
+          vous: 'vous nuisîtes',
+          ils: 'ils nuisirent'
         },
         passeAnterieur: {
           je: 'j\'eus nui',
-          tu: ' eus nui',
-          il: ' eut nui',
-          nous: ' eûmes nui',
-          vous: ' eûtes nui',
-          ils: ' eurent nui'
+          tu: 'tu eus nui',
+          il: 'il eut nui',
+          nous: 'nous eûmes nui',
+          vous: 'vous eûtes nui',
+          ils: 'ils eurent nui'
         },
         futurSimple: {
           je: 'je nuirai',
-          tu: ' nuiras',
-          il: ' nuira',
-          nous: ' nuirons',
-          vous: ' nuirez',
-          ils: ' nuiront'
+          tu: 'tu nuiras',
+          il: 'il nuira',
+          nous: 'nous nuirons',
+          vous: 'vous nuirez',
+          ils: 'ils nuiront'
         },
         futurAnterieur: {
           je: 'j\'aurai nui',
-          tu: ' auras nui',
-          il: ' aura nui',
-          nous: ' aurons nui',
-          vous: ' aurez nui',
-          ils: ' auront nui'
+          tu: 'tu auras nui',
+          il: 'il aura nui',
+          nous: 'nous aurons nui',
+          vous: 'vous aurez nui',
+          ils: 'ils auront nui'
         }
       },
       conditionnel: {
         present: {
           je: 'je nuirais',
-          tu: ' nuirais',
-          il: ' nuirait',
-          nous: ' nuirions',
-          vous: ' nuiriez',
-          ils: ' nuiraient'
+          tu: 'tu nuirais',
+          il: 'il nuirait',
+          nous: 'nous nuirions',
+          vous: 'vous nuiriez',
+          ils: 'ils nuiraient'
         },
         passe: {
           je: 'j\'aurais nui',
-          tu: ' aurais nui',
-          il: ' aurait nui',
-          nous: ' aurions nui',
-          vous: ' auriez nui',
-          ils: ' auraient nui'
+          tu: 'tu aurais nui',
+          il: 'il aurait nui',
+          nous: 'nous aurions nui',
+          vous: 'vous auriez nui',
+          ils: 'ils auraient nui'
         }
       },
       subjonctif: {
@@ -3237,13 +3237,13 @@ export const verbsN = [
       imperatif: {
         present: {
           je: 'nuis',
-          nous: 'nuisons',
-          vous: 'nuisez'
+          nous: 'nous nuisons',
+          vous: 'vous nuisez'
         },
         passe: {
           je: 'aie nui',
-          nous: 'ayons nui',
-          vous: 'ayez nui'
+          nous: 'nous ayons nui',
+          vous: 'vous ayez nui'
         }
       },
       infinitif: {
@@ -3260,7 +3260,7 @@ export const verbsN = [
         },
         passe: {
           je: 'nui',
-          nous: 'ayant nui'
+          nous: 'nous ayant nui'
         }
       },
       gerondif: {

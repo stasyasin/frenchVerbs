@@ -5,85 +5,85 @@ export const verbsK = [
       indicatif: {
         present: {
           je: 'je kiffe',
-          tu: ' kiffes',
-          il: ' kiffe',
-          nous: ' kiffons',
-          vous: ' kiffez',
-          ils: ' kiffent'
+          tu: 'tu kiffes',
+          il: 'il kiffe',
+          nous: 'nous kiffons',
+          vous: 'vous kiffez',
+          ils: 'ils kiffent'
         },
         passeCompose: {
           je: 'j\'ai kiffé',
-          tu: ' as kiffé',
-          il: ' a kiffé',
-          nous: ' avons kiffé',
-          vous: ' avez kiffé',
-          ils: ' ont kiffé'
+          tu: 'tu as kiffé',
+          il: 'il a kiffé',
+          nous: 'nous avons kiffé',
+          vous: 'vous avez kiffé',
+          ils: 'ils ont kiffé'
         },
         imparfait: {
           je: 'je kiffais',
-          tu: ' kiffais',
-          il: ' kiffait',
-          nous: ' kiffions',
-          vous: ' kiffiez',
-          ils: ' kiffaient'
+          tu: 'tu kiffais',
+          il: 'il kiffait',
+          nous: 'nous kiffions',
+          vous: 'vous kiffiez',
+          ils: 'ils kiffaient'
         },
         plusQueParfait: {
           je: 'j\'avais kiffé',
-          tu: ' avais kiffé',
-          il: ' avait kiffé',
-          nous: ' avions kiffé',
-          vous: ' aviez kiffé',
-          ils: ' avaient kiffé'
+          tu: 'tu avais kiffé',
+          il: 'il avait kiffé',
+          nous: 'nous avions kiffé',
+          vous: 'vous aviez kiffé',
+          ils: 'ils avaient kiffé'
         },
         passeSimple: {
           je: 'je kiffai',
-          tu: ' kiffas',
-          il: ' kiffa',
-          nous: ' kiffâmes',
-          vous: ' kiffâtes',
-          ils: ' kiffèrent'
+          tu: 'tu kiffas',
+          il: 'il kiffa',
+          nous: 'nous kiffâmes',
+          vous: 'vous kiffâtes',
+          ils: 'ils kiffèrent'
         },
         passeAnterieur: {
           je: 'j\'eus kiffé',
-          tu: ' eus kiffé',
-          il: ' eut kiffé',
-          nous: ' eûmes kiffé',
-          vous: ' eûtes kiffé',
-          ils: ' eurent kiffé'
+          tu: 'tu eus kiffé',
+          il: 'il eut kiffé',
+          nous: 'nous eûmes kiffé',
+          vous: 'vous eûtes kiffé',
+          ils: 'ils eurent kiffé'
         },
         futurSimple: {
           je: 'je kifferai',
-          tu: ' kifferas',
-          il: ' kiffera',
-          nous: ' kifferons',
-          vous: ' kifferez',
-          ils: ' kifferont'
+          tu: 'tu kifferas',
+          il: 'il kiffera',
+          nous: 'nous kifferons',
+          vous: 'vous kifferez',
+          ils: 'ils kifferont'
         },
         futurAnterieur: {
           je: 'j\'aurai kiffé',
-          tu: ' auras kiffé',
-          il: ' aura kiffé',
-          nous: ' aurons kiffé',
-          vous: ' aurez kiffé',
-          ils: ' auront kiffé'
+          tu: 'tu auras kiffé',
+          il: 'il aura kiffé',
+          nous: 'nous aurons kiffé',
+          vous: 'vous aurez kiffé',
+          ils: 'ils auront kiffé'
         }
       },
       conditionnel: {
         present: {
           je: 'je kifferais',
-          tu: ' kifferais',
-          il: ' kifferait',
-          nous: ' kifferions',
-          vous: ' kifferiez',
-          ils: ' kifferaient'
+          tu: 'tu kifferais',
+          il: 'il kifferait',
+          nous: 'nous kifferions',
+          vous: 'vous kifferiez',
+          ils: 'ils kifferaient'
         },
         passe: {
           je: 'j\'aurais kiffé',
-          tu: ' aurais kiffé',
-          il: ' aurait kiffé',
-          nous: ' aurions kiffé',
-          vous: ' auriez kiffé',
-          ils: ' auraient kiffé'
+          tu: 'tu aurais kiffé',
+          il: 'il aurait kiffé',
+          nous: 'nous aurions kiffé',
+          vous: 'vous auriez kiffé',
+          ils: 'ils auraient kiffé'
         }
       },
       subjonctif: {
@@ -123,13 +123,13 @@ export const verbsK = [
       imperatif: {
         present: {
           je: 'kiffe',
-          nous: 'kiffons',
-          vous: 'kiffez'
+          nous: 'nous kiffons',
+          vous: 'vous kiffez'
         },
         passe: {
           je: 'aie kiffé',
-          nous: 'ayons kiffé',
-          vous: 'ayez kiffé'
+          nous: 'nous ayons kiffé',
+          vous: 'vous ayez kiffé'
         }
       },
       infinitif: {
@@ -146,7 +146,7 @@ export const verbsK = [
         },
         passe: {
           je: 'kiffé',
-          nous: 'ayant kiffé'
+          nous: 'nous ayant kiffé'
         }
       },
       gerondif: {

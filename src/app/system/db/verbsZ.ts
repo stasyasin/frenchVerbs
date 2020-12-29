@@ -5,85 +5,85 @@ export const verbsZ = [
       indicatif: {
         present: {
           je: 'je zappe',
-          tu: ' zappes',
-          il: ' zappe',
-          nous: ' zappons',
-          vous: ' zappez',
-          ils: ' zappent'
+          tu: 'tu zappes',
+          il: 'il zappe',
+          nous: 'nous zappons',
+          vous: 'vous zappez',
+          ils: 'ils zappent'
         },
         passeCompose: {
           je: 'j\'ai zappé',
-          tu: ' as zappé',
-          il: ' a zappé',
-          nous: ' avons zappé',
-          vous: ' avez zappé',
-          ils: ' ont zappé'
+          tu: 'tu as zappé',
+          il: 'il a zappé',
+          nous: 'nous avons zappé',
+          vous: 'vous avez zappé',
+          ils: 'ils ont zappé'
         },
         imparfait: {
           je: 'je zappais',
-          tu: ' zappais',
-          il: ' zappait',
-          nous: ' zappions',
-          vous: ' zappiez',
-          ils: ' zappaient'
+          tu: 'tu zappais',
+          il: 'il zappait',
+          nous: 'nous zappions',
+          vous: 'vous zappiez',
+          ils: 'ils zappaient'
         },
         plusQueParfait: {
           je: 'j\'avais zappé',
-          tu: ' avais zappé',
-          il: ' avait zappé',
-          nous: ' avions zappé',
-          vous: ' aviez zappé',
-          ils: ' avaient zappé'
+          tu: 'tu avais zappé',
+          il: 'il avait zappé',
+          nous: 'nous avions zappé',
+          vous: 'vous aviez zappé',
+          ils: 'ils avaient zappé'
         },
         passeSimple: {
           je: 'je zappai',
-          tu: ' zappas',
-          il: ' zappa',
-          nous: ' zappâmes',
-          vous: ' zappâtes',
-          ils: ' zappèrent'
+          tu: 'tu zappas',
+          il: 'il zappa',
+          nous: 'nous zappâmes',
+          vous: 'vous zappâtes',
+          ils: 'ils zappèrent'
         },
         passeAnterieur: {
           je: 'j\'eus zappé',
-          tu: ' eus zappé',
-          il: ' eut zappé',
-          nous: ' eûmes zappé',
-          vous: ' eûtes zappé',
-          ils: ' eurent zappé'
+          tu: 'tu eus zappé',
+          il: 'il eut zappé',
+          nous: 'nous eûmes zappé',
+          vous: 'vous eûtes zappé',
+          ils: 'ils eurent zappé'
         },
         futurSimple: {
           je: 'je zapperai',
-          tu: ' zapperas',
-          il: ' zappera',
-          nous: ' zapperons',
-          vous: ' zapperez',
-          ils: ' zapperont'
+          tu: 'tu zapperas',
+          il: 'il zappera',
+          nous: 'nous zapperons',
+          vous: 'vous zapperez',
+          ils: 'ils zapperont'
         },
         futurAnterieur: {
           je: 'j\'aurai zappé',
-          tu: ' auras zappé',
-          il: ' aura zappé',
-          nous: ' aurons zappé',
-          vous: ' aurez zappé',
-          ils: ' auront zappé'
+          tu: 'tu auras zappé',
+          il: 'il aura zappé',
+          nous: 'nous aurons zappé',
+          vous: 'vous aurez zappé',
+          ils: 'ils auront zappé'
         }
       },
       conditionnel: {
         present: {
           je: 'je zapperais',
-          tu: ' zapperais',
-          il: ' zapperait',
-          nous: ' zapperions',
-          vous: ' zapperiez',
-          ils: ' zapperaient'
+          tu: 'tu zapperais',
+          il: 'il zapperait',
+          nous: 'nous zapperions',
+          vous: 'vous zapperiez',
+          ils: 'ils zapperaient'
         },
         passe: {
           je: 'j\'aurais zappé',
-          tu: ' aurais zappé',
-          il: ' aurait zappé',
-          nous: ' aurions zappé',
-          vous: ' auriez zappé',
-          ils: ' auraient zappé'
+          tu: 'tu aurais zappé',
+          il: 'il aurait zappé',
+          nous: 'nous aurions zappé',
+          vous: 'vous auriez zappé',
+          ils: 'ils auraient zappé'
         }
       },
       subjonctif: {
@@ -123,13 +123,13 @@ export const verbsZ = [
       imperatif: {
         present: {
           je: 'zappe',
-          nous: 'zappons',
-          vous: 'zappez'
+          nous: 'nous zappons',
+          vous: 'vous zappez'
         },
         passe: {
           je: 'aie zappé',
-          nous: 'ayons zappé',
-          vous: 'ayez zappé'
+          nous: 'nous ayons zappé',
+          vous: 'vous ayez zappé'
         }
       },
       infinitif: {
@@ -146,7 +146,7 @@ export const verbsZ = [
         },
         passe: {
           je: 'zappé',
-          nous: 'ayant zappé'
+          nous: 'nous ayant zappé'
         }
       },
       gerondif: {
@@ -164,85 +164,85 @@ export const verbsZ = [
       indicatif: {
         present: {
           je: 'je zézaie/zézaye',
-          tu: ' zézaies/zézayes',
-          il: ' zézaie/zézaye',
-          nous: ' zézayons',
-          vous: ' zézayez',
-          ils: ' zézaient/zézayent'
+          tu: 'tu zézaies/zézayes',
+          il: 'il zézaie/zézaye',
+          nous: 'nous zézayons',
+          vous: 'vous zézayez',
+          ils: 'ils zézaient/zézayent'
         },
         passeCompose: {
           je: 'j\'ai zézayé',
-          tu: ' as zézayé',
-          il: ' a zézayé',
-          nous: ' avons zézayé',
-          vous: ' avez zézayé',
-          ils: ' ont zézayé'
+          tu: 'tu as zézayé',
+          il: 'il a zézayé',
+          nous: 'nous avons zézayé',
+          vous: 'vous avez zézayé',
+          ils: 'ils ont zézayé'
         },
         imparfait: {
           je: 'je zézayais',
-          tu: ' zézayais',
-          il: ' zézayait',
-          nous: ' zézayions',
-          vous: ' zézayiez',
-          ils: ' zézayaient'
+          tu: 'tu zézayais',
+          il: 'il zézayait',
+          nous: 'nous zézayions',
+          vous: 'vous zézayiez',
+          ils: 'ils zézayaient'
         },
         plusQueParfait: {
           je: 'j\'avais zézayé',
-          tu: ' avais zézayé',
-          il: ' avait zézayé',
-          nous: ' avions zézayé',
-          vous: ' aviez zézayé',
-          ils: ' avaient zézayé'
+          tu: 'tu avais zézayé',
+          il: 'il avait zézayé',
+          nous: 'nous avions zézayé',
+          vous: 'vous aviez zézayé',
+          ils: 'ils avaient zézayé'
         },
         passeSimple: {
           je: 'je zézayai',
-          tu: ' zézayas',
-          il: ' zézaya',
-          nous: ' zézayâmes',
-          vous: ' zézayâtes',
-          ils: ' zézayèrent'
+          tu: 'tu zézayas',
+          il: 'il zézaya',
+          nous: 'nous zézayâmes',
+          vous: 'vous zézayâtes',
+          ils: 'ils zézayèrent'
         },
         passeAnterieur: {
           je: 'j\'eus zézayé',
-          tu: ' eus zézayé',
-          il: ' eut zézayé',
-          nous: ' eûmes zézayé',
-          vous: ' eûtes zézayé',
-          ils: ' eurent zézayé'
+          tu: 'tu eus zézayé',
+          il: 'il eut zézayé',
+          nous: 'nous eûmes zézayé',
+          vous: 'vous eûtes zézayé',
+          ils: 'ils eurent zézayé'
         },
         futurSimple: {
           je: 'je zézaierai/zézayerai',
-          tu: ' zézaieras/zézayeras',
-          il: ' zézaiera/zézayera',
-          nous: ' zézaierons/zézayerons',
-          vous: ' zézaierez/zézayerez',
-          ils: ' zézaieront/zézayeront'
+          tu: 'tu zézaieras/zézayeras',
+          il: 'il zézaiera/zézayera',
+          nous: 'nous zézaierons/zézayerons',
+          vous: 'vous zézaierez/zézayerez',
+          ils: 'ils zézaieront/zézayeront'
         },
         futurAnterieur: {
           je: 'j\'aurai zézayé',
-          tu: ' auras zézayé',
-          il: ' aura zézayé',
-          nous: ' aurons zézayé',
-          vous: ' aurez zézayé',
-          ils: ' auront zézayé'
+          tu: 'tu auras zézayé',
+          il: 'il aura zézayé',
+          nous: 'nous aurons zézayé',
+          vous: 'vous aurez zézayé',
+          ils: 'ils auront zézayé'
         }
       },
       conditionnel: {
         present: {
           je: 'je zézaierais/zézayerais',
-          tu: ' zézaierais/zézayerais',
-          il: ' zézaierait/zézayerait',
-          nous: ' zézaierions/zézayerions',
-          vous: ' zézaieriez/zézayeriez',
-          ils: ' zézaieraient/zézayeraient'
+          tu: 'tu zézaierais/zézayerais',
+          il: 'il zézaierait/zézayerait',
+          nous: 'nous zézaierions/zézayerions',
+          vous: 'vous zézaieriez/zézayeriez',
+          ils: 'ils zézaieraient/zézayeraient'
         },
         passe: {
           je: 'j\'aurais zézayé',
-          tu: ' aurais zézayé',
-          il: ' aurait zézayé',
-          nous: ' aurions zézayé',
-          vous: ' auriez zézayé',
-          ils: ' auraient zézayé'
+          tu: 'tu aurais zézayé',
+          il: 'il aurait zézayé',
+          nous: 'nous aurions zézayé',
+          vous: 'vous auriez zézayé',
+          ils: 'ils auraient zézayé'
         }
       },
       subjonctif: {
@@ -282,13 +282,13 @@ export const verbsZ = [
       imperatif: {
         present: {
           je: 'zézaie/zézaye',
-          nous: 'zézayons',
-          vous: 'zézayez'
+          nous: 'nous zézayons',
+          vous: 'vous zézayez'
         },
         passe: {
           je: 'aie zézayé',
-          nous: 'ayons zézayé',
-          vous: 'ayez zézayé'
+          nous: 'nous ayons zézayé',
+          vous: 'vous ayez zézayé'
         }
       },
       infinitif: {
@@ -305,7 +305,7 @@ export const verbsZ = [
         },
         passe: {
           je: 'zézayé',
-          nous: 'ayant zézayé'
+          nous: 'nous ayant zézayé'
         }
       },
       gerondif: {

@@ -12,6 +12,7 @@ import { VerbComponent } from './components/verb/verb.component';
 import { GameComponent } from './components/game/game.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { VerbsListComponent } from './components/verbs-list/verbs-list.component';
+import { VerbsComponent } from './components/verbs/verbs.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { VerbsListComponent } from './components/verbs-list/verbs-list.component
     NotFoundComponent,
     VerbComponent,
     GameComponent,
-    VerbsListComponent
+    VerbsListComponent,
+    VerbsComponent
   ],
   imports: [
     BrowserModule,

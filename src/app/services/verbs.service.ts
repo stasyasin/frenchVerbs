@@ -25,16 +25,17 @@ import { verbsW } from '../system/db/verbsW';
 import { verbsX } from '../system/db/verbsX';
 import { verbsY } from '../system/db/verbsY';
 import { verbsZ } from '../system/db/verbsZ';
+import { IVerb } from '../models/verb.model';
 
 @Injectable({
   providedIn: 'root'
 })
 export class VerbsService {
 
-  verbs = [];
-  verbKeys = [];
-  currentVerbKey = '';
-  currentVerb = {}; // todo add type here
+  verbs: IVerb[] = [];
+  verbKeys: string[] = [];
+  currentVerbKey = 'abaisser';
+  currentVerb: IVerb = {} as IVerb;
 
   constructor() {
     this.verbs = [
@@ -66,7 +67,7 @@ export class VerbsService {
       ...verbsZ,
     ];
     this.verbKeys = this.verbs.map((verb) => Object.keys(verb)[0]);
-    this.updateCurrentVerb('avoir');
+    this.updateCurrentVerb(this.currentVerbKey);
   }
 
   public updateCurrentVerb(key: string): void {

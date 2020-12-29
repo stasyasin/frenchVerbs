@@ -1,5 +1,5 @@
 <!--<div> The verb is {{verbsService.currentVerb | json}}</div>-->
-<div class="verb-container" *ngIf="verbsService.currentVerb[verbsService.currentVerbKey] as verb">
+<div class="verb-container" *ngIf="verb">
   <div class="mode-container" *ngIf="verb?.conditionnel">
     <div class="mode-name">Indicatif</div>
     <div class="flex flex-wrap -mx-1 overflow-hidden sm:-mx-1 md:-mx-1 lg:-mx-1 xl:-mx-1">

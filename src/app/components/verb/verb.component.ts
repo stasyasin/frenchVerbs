@@ -1,6 +1,6 @@
 import { ChangeDetectionStrategy, Component, Input, OnInit } from '@angular/core';
 import { VerbsService } from '../../services/verbs.service';
-import { IWord } from '../../models/verb.model';
+import { IVerb, IWord } from '../../models/verb.model';
 
 @Component({
   selector: 'app-verb',
@@ -9,8 +9,10 @@ import { IWord } from '../../models/verb.model';
   changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class VerbComponent implements OnInit {
+  @Input()
+  verb: IVerb;
 
-  constructor(public verbsService: VerbsService) {
+  constructor() {
   }
 
   ngOnInit(): void {

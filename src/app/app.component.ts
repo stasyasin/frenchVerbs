@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { VerbsService } from './services/verbs.service';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,17 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'FrenchVerbs';
+  title = 'FRasty';
+  searchKey: string;
+
+  clearSearch(): void {
+    this.searchKey = '';
+  }
+  constructor(private verbsService: VerbsService) {
+  }
+
+  changeFilterKey(event: Event): void {
+    const target = event.target as HTMLInputElement;
+    this.verbsService.setFilterKey(target.value);
+  }
 }

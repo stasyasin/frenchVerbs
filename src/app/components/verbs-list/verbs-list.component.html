@@ -1,5 +1,5 @@
 <div class="verb-container">
-  <div class="verb" *ngFor="let verb of verbsService.verbKeys"
+  <div class="verb" *ngFor="let verb of verbsService.verbKeys | verbsFilter: (verbsService.filterKey$ | async)"
        [class.active]="verb === verbsService.currentVerbKey"
        (click)="selectVerb(verb)">
     {{verb}}

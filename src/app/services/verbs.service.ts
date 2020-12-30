@@ -26,6 +26,7 @@ import { verbsX } from '../system/db/verbsX';
 import { verbsY } from '../system/db/verbsY';
 import { verbsZ } from '../system/db/verbsZ';
 import { IVerb } from '../models/verb.model';
+import { BehaviorSubject, Observable } from 'rxjs';
 
 @Injectable({
   providedIn: 'root'
@@ -36,6 +37,8 @@ export class VerbsService {
   verbKeys: string[] = [];
   currentVerbKey = 'abaisser';
   currentVerb: IVerb = {} as IVerb;
+  private filterKey: BehaviorSubject<string> = new BehaviorSubject<string>('');
+  public filterKey$: Observable<string> = this.filterKey.asObservable();
 
   constructor() {
     this.verbs = [
@@ -73,6 +76,10 @@ export class VerbsService {
   public updateCurrentVerb(key: string): void {
     this.currentVerbKey = key;
     this.currentVerb = this.verbs.find((verb) => Object.keys(verb)[0] === key);
+  }
+
+  public setFilterKey(key: string): void {
+    this.filterKey.next(key);
   }
 
 }

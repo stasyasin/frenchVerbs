@@ -1,59 +1,58 @@
-<!--<div> The verb is {{verbsService.currentVerb | json}}</div>-->
 <div class="verb-container" *ngIf="verb">
-  <div class="mode-container" *ngIf="verb?.conditionnel">
+  <div class="mode-container" *ngIf="verb?.indicatif">
     <div class="mode-name">Indicatif</div>
     <div class="flex flex-wrap -mx-1 overflow-hidden sm:-mx-1 md:-mx-1 lg:-mx-1 xl:-mx-1">
 
-      <div class="my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
+      <div class="time-container my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
         <div class="time-name">Présent</div>
         <div class="time-conjugation" *ngFor="let key of getKeys(verb.indicatif.present)">
           {{verb.indicatif.present[key]}}
         </div>
       </div>
 
-      <div class="my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
+      <div class="time-container my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
         <div class="time-name">Passé composé</div>
         <div class="time-conjugation" *ngFor="let key of getKeys(verb.indicatif.passeCompose)">
           {{verb.indicatif.passeCompose[key]}}
         </div>
       </div>
 
-      <div class="my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
+      <div class="time-container my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
         <div class="time-name">Imparfait</div>
         <div class="time-conjugation" *ngFor="let key of getKeys(verb.indicatif.imparfait)">
           {{verb.indicatif.imparfait[key]}}
         </div>
       </div>
 
-      <div class="my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
+      <div class="time-container my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
         <div class="time-name">Plus-que-parfait</div>
         <div class="time-conjugation" *ngFor="let key of getKeys(verb.indicatif.passeCompose)">
           {{verb.indicatif.plusQueParfait[key]}}
         </div>
       </div>
 
-      <div class="my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
+      <div class="time-container my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
         <div class="time-name">Passé simple</div>
         <div class="time-conjugation" *ngFor="let key of getKeys(verb.indicatif.passeCompose)">
           {{verb.indicatif.passeSimple[key]}}
         </div>
       </div>
 
-      <div class="my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
+      <div class="time-container my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
         <div class="time-name">Passé antérieur</div>
         <div class="time-conjugation" *ngFor="let key of getKeys(verb.indicatif.passeCompose)">
           {{verb.indicatif.passeAnterieur[key]}}
         </div>
       </div>
 
-      <div class="my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
+      <div class="time-container my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
         <div class="time-name">Futur simple</div>
         <div class="time-conjugation" *ngFor="let key of getKeys(verb.indicatif.passeCompose)">
           {{verb.indicatif.futurSimple[key]}}
         </div>
       </div>
 
-      <div class="my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
+      <div class="time-container my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
         <div class="time-name">Futur antérieur</div>
         <div class="time-conjugation" *ngFor="let key of getKeys(verb.indicatif.passeCompose)">
           {{verb.indicatif.futurAnterieur[key]}}
@@ -66,14 +65,14 @@
     <div class="mode-name">Conditionnel</div>
     <div class="flex flex-wrap -mx-1 overflow-hidden sm:-mx-1 md:-mx-1 lg:-mx-1 xl:-mx-1">
 
-      <div class="my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
+      <div class="time-container my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
         <div class="time-name">Présent</div>
         <div class="time-conjugation" *ngFor="let key of getKeys(verb.conditionnel.present)">
           {{verb.conditionnel.present[key]}}
         </div>
       </div>
 
-      <div class="my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
+      <div class="time-container my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
         <div class="time-name">Passé</div>
         <div class="time-conjugation" *ngFor="let key of getKeys(verb.conditionnel.present)">
           {{verb.conditionnel.present[key]}}
@@ -86,28 +85,28 @@
     <div class="mode-name">Subjonctif</div>
     <div class="flex flex-wrap -mx-1 overflow-hidden sm:-mx-1 md:-mx-1 lg:-mx-1 xl:-mx-1">
 
-      <div class="my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
+      <div class="time-container my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
         <div class="time-name">Présent</div>
         <div class="time-conjugation" *ngFor="let key of getKeys(verb.subjonctif.present)">
           {{verb.subjonctif.present[key]}}
         </div>
       </div>
 
-      <div class="my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
+      <div class="time-container my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
         <div class="time-name">Passé</div>
         <div class="time-conjugation" *ngFor="let key of getKeys(verb.subjonctif.passe)">
           {{verb.subjonctif.passe[key]}}
         </div>
       </div>
 
-      <div class="my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
+      <div class="time-container my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
         <div class="time-name">Imparfait</div>
         <div class="time-conjugation" *ngFor="let key of getKeys(verb.subjonctif.imparfait)">
           {{verb.subjonctif.imparfait[key]}}
         </div>
       </div>
 
-      <div class="my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
+      <div class="time-container my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
         <div class="time-name">Plus-que-parfait</div>
         <div class="time-conjugation" *ngFor="let key of getKeys(verb.subjonctif.plusQueParfait)">
           {{verb.subjonctif.plusQueParfait[key]}}
@@ -120,14 +119,14 @@
     <div class="mode-name">Impératif</div>
     <div class="flex flex-wrap -mx-1 overflow-hidden sm:-mx-1 md:-mx-1 lg:-mx-1 xl:-mx-1">
 
-      <div class="my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
+      <div class="time-container my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
         <div class="time-name">Présent</div>
         <div class="time-conjugation" *ngFor="let key of getKeys(verb.imperatif.present)">
           {{verb.imperatif.present[key]}}
         </div>
       </div>
 
-      <div class="my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
+      <div class="time-container my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
         <div class="time-name">Passé</div>
         <div class="time-conjugation" *ngFor="let key of getKeys(verb.imperatif.passe)">
           {{verb.imperatif.passe[key]}}
@@ -140,14 +139,14 @@
     <div class="mode-name">Infinitif</div>
     <div class="flex flex-wrap -mx-1 overflow-hidden sm:-mx-1 md:-mx-1 lg:-mx-1 xl:-mx-1">
 
-      <div class="my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
+      <div class="time-container my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
         <div class="time-name">Présent</div>
         <div class="time-conjugation" *ngFor="let key of getKeys(verb.infinitif.present)">
           {{verb.infinitif.present[key]}}
         </div>
       </div>
 
-      <div class="my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
+      <div class="time-container my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
         <div class="time-name">Passé</div>
         <div class="time-conjugation" *ngFor="let key of getKeys(verb.infinitif.passe)">
           {{verb.infinitif.passe[key]}}
@@ -160,14 +159,14 @@
     <div class="mode-name">Participe</div>
     <div class="flex flex-wrap -mx-1 overflow-hidden sm:-mx-1 md:-mx-1 lg:-mx-1 xl:-mx-1">
 
-      <div class="my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
+      <div class="time-container my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
         <div class="time-name">Présent</div>
         <div class="time-conjugation" *ngFor="let key of getKeys(verb.participe.present)">
           {{verb.participe.present[key]}}
         </div>
       </div>
 
-      <div class="my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
+      <div class="time-container my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
         <div class="time-name">Passé</div>
         <div class="time-conjugation" *ngFor="let key of getKeys(verb.participe.passe)">
           {{verb.participe.passe[key]}}
@@ -180,14 +179,14 @@
     <div class="mode-name">Gérondif</div>
     <div class="flex flex-wrap -mx-1 overflow-hidden sm:-mx-1 md:-mx-1 lg:-mx-1 xl:-mx-1">
 
-      <div class="my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
+      <div class="time-container my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
         <div class="time-name">Présent</div>
         <div class="time-conjugation" *ngFor="let key of getKeys(verb.gerondif.present)">
           {{verb.gerondif.present[key]}}
         </div>
       </div>
 
-      <div class="my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
+      <div class="time-container my-1 px-1 w-full overflow-hidden sm:my-1 sm:px-1 sm:w-full md:my-1 md:px-1 md:w-1/2 lg:my-1 lg:px-1 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
         <div class="time-name">Passé</div>
         <div class="time-conjugation" *ngFor="let key of getKeys(verb.gerondif.passe)">
           {{verb.gerondif.passe[key]}}

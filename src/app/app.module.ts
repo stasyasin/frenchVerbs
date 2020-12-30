@@ -13,6 +13,13 @@ import { GameComponent } from './components/game/game.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { VerbsListComponent } from './components/verbs-list/verbs-list.component';
 import { VerbsComponent } from './components/verbs/verbs.component';
+import { MatIconModule } from '@angular/material/icon';
+import { VerbsFilterPipe } from './pipes/verbs-filter.pipe';
+
+const materialModules = [
+  MatFormFieldModule,
+  MatIconModule
+];
 
 @NgModule({
   declarations: [
@@ -21,15 +28,15 @@ import { VerbsComponent } from './components/verbs/verbs.component';
     VerbComponent,
     GameComponent,
     VerbsListComponent,
-    VerbsComponent
+    VerbsComponent,
+    VerbsFilterPipe
   ],
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
     AppRoutingModule,
     FormsModule,
-    MatInputModule,
-    MatButtonModule
+    materialModules
   ],
   providers: [],
   bootstrap: [AppComponent]

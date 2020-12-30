@@ -3,8 +3,10 @@ import { Routes, RouterModule, PreloadAllModules } from '@angular/router';
 import { NotFoundComponent } from './components/not-found/not-found.component';
 import { GameComponent } from './components/game/game.component';
 import { VerbsComponent } from './components/verbs/verbs.component';
+import { WelcomePageComponent } from './components/welcome-page/welcome-page.component';
 
-const routes: Routes = [{ path: '', redirectTo: 'verb', pathMatch: 'full' },
+const routes: Routes = [{ path: '', redirectTo: 'welcome', pathMatch: 'full' },
+  {path: 'welcome', component: WelcomePageComponent},
   {path: 'verbs', component: VerbsComponent},
   {path: 'game', component: GameComponent},
   {path: '**', component: NotFoundComponent}];

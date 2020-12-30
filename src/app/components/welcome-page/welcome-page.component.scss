@@ -1,0 +1,33 @@
+.container {
+  .header {
+    .logo {
+      background-color: lightblue;
+      border: 1px solid black;
+      border-radius: 25%;
+    }
+  }
+  .content {
+    .memo-text {
+      font-size: 70px;
+      font-weight: 500;
+      line-height: 80px;
+    }
+    .button-panel {
+      .button {
+        width: 615px;
+        height: 215px;
+        border-radius: 60px;
+        font-size: 60px;
+        text-transform: uppercase;
+      }
+
+      .verbs-button {
+        background-color: #FEC859;
+      }
+
+      .game-button {
+        background-color: #43B5A0;
+      }
+    }
+  }
+}

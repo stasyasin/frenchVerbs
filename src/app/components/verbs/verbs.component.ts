@@ -13,4 +13,9 @@ export class VerbsComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  changeFilterKey(event: Event): void {
+    const target = event.target as HTMLInputElement;
+    this.verbsService.setFilterKey(target.value);
+  }
+
 }

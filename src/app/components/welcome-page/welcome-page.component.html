@@ -1,0 +1,21 @@
+<div class="container mx-auto p-4 h-screen">
+  <div class="header flex justify-between">
+    <div class="logo text-center">
+      <span>FRasty</span>
+    </div>
+    <div class="login">
+      <button mat-mini-fab color="primary" aria-label="login">
+        <mat-icon>menu</mat-icon>
+      </button>
+    </div>
+  </div>
+  <div class="content h-3/4 mb-4 overflow-y-auto overflow-x-hidden">
+    <div class="memo-text h-1/2 text-center">
+      Discover new verbs and Feel fRee to parle français
+    </div>
+    <div class="button-panel h-1/2 flex justify-center">
+      <button class="button verbs-button" mat-button [routerLink]="['/verbs']">Verbs</button>
+      <button class="button game-button" mat-button [routerLink]="['/game']">Game</button>
+    </div>
+  </div>
+</div>

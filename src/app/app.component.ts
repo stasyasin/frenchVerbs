@@ -8,16 +8,13 @@ import { VerbsService } from './services/verbs.service';
 })
 export class AppComponent {
   title = 'FRasty';
-  searchKey: string;
+  // searchKey: string;
 
-  clearSearch(): void {
-    this.searchKey = '';
-  }
   constructor(private verbsService: VerbsService) {
   }
 
-  changeFilterKey(event: Event): void {
-    const target = event.target as HTMLInputElement;
-    this.verbsService.setFilterKey(target.value);
-  }
+  // changeFilterKey(event: Event): void {
+  //   const target = event.target as HTMLInputElement;
+  //   this.verbsService.setFilterKey(target.value);
+  // }
 }

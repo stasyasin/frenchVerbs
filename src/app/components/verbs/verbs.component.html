@@ -1,8 +1,20 @@
-<div class="content mb-4 flex flex-grow">
-  <div class="left-panel">
-    <app-verbs-list></app-verbs-list>
+<div class="container mx-auto p-4 flex flex-col h-screen">
+  <div class="header mb-4 flex justify-center">
+    <a class="mr-8" [routerLink]="['/verbs']" routerLinkActive="active-link">Verbs</a>
+    <a [routerLink]="['/game']" routerLinkActive="active-link">Game</a>
+    <!--    <mat-icon *ngIf="!searchKey">search</mat-icon>-->
+    <input matInput type="search" placeholder="Search" class="search-input" (input)="changeFilterKey($event)">
   </div>
-  <div class="page-content ml-4 flex-grow">
-    <app-verb [verb]="verbsService.currentVerb[verbsService.currentVerbKey]"></app-verb>
+  <div class="content mb-4 overflow-y-auto overflow-x-hidden flex flex-grow">
+    <div class="left-panel">
+      <app-verbs-list></app-verbs-list>
+    </div>
+    <div class="page-content ml-4 flex-grow">
+      <app-verb [verb]="verbsService.currentVerb[verbsService.currentVerbKey]"></app-verb>
+    </div>
+  </div>
+  <div class="footer h-8">
+    This is the best app ever
   </div>
 </div>
+

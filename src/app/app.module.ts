@@ -15,6 +15,7 @@ import { VerbsListComponent } from './components/verbs-list/verbs-list.component
 import { VerbsComponent } from './components/verbs/verbs.component';
 import { MatIconModule } from '@angular/material/icon';
 import { VerbsFilterPipe } from './pipes/verbs-filter.pipe';
+import { WelcomePageComponent } from './components/welcome-page/welcome-page.component';
 
 const materialModules = [
   MatFormFieldModule,
@@ -29,14 +30,16 @@ const materialModules = [
     GameComponent,
     VerbsListComponent,
     VerbsComponent,
-    VerbsFilterPipe
+    VerbsFilterPipe,
+    WelcomePageComponent
   ],
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
     AppRoutingModule,
     FormsModule,
-    materialModules
+    materialModules,
+    MatButtonModule
   ],
   providers: [],
   bootstrap: [AppComponent]

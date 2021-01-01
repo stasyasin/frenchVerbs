@@ -1,4 +1,7 @@
 import { Component, OnInit } from '@angular/core';
+import { GameService } from '../../services/game.service';
+import { VerbsService } from '../../services/verbs.service';
+import { IVerb } from '../../models/verb.model';
 
 @Component({
   selector: 'app-game',
@@ -7,9 +10,15 @@ import { Component, OnInit } from '@angular/core';
 })
 export class GameComponent implements OnInit {
 
-  constructor() { }
+  constructor(public gameService: GameService, public verbsService: VerbsService) {
+  }
 
   ngOnInit(): void {
+    this.gameService.startGame();
+  }
+
+  public getAnswerOptions(): string[] {
+    return Object.values(this.gameService.playingVerb[this.gameService.playingVerbKey][this.gameService.modePlaying][this.gameService.timeKey]);
   }
 
 }

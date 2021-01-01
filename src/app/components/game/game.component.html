@@ -1,1 +1,22 @@
-<p>game works!</p>
+<div class="container">
+  <div class="settings-panel">
+    This is settings panel
+  </div>
+  <div class="content mb-4 overflow-y-auto overflow-x-hidden flex flex-grow">
+    <div class="left-panel">
+      Left panel
+    </div>
+    <div class="page-content ml-4 flex-grow">
+      Infinitif - {{gameService.playingVerbKey}}
+      <p>mode to play - {{gameService.modePlaying}}
+      <p>time to play - {{gameService.timeKey}}
+      <p>
+      <p>pronoun to play - {{gameService.pronounPlaying}}
+      <p> answers -
+      <div class="answer-option" *ngFor="let option of getAnswerOptions()">
+        {{option}}
+      </div>
+
+    </div>
+  </div>
+</div>

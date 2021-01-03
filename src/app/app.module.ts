@@ -16,6 +16,7 @@ import { VerbsComponent } from './components/verbs/verbs.component';
 import { MatIconModule } from '@angular/material/icon';
 import { VerbsFilterPipe } from './pipes/verbs-filter.pipe';
 import { WelcomePageComponent } from './components/welcome-page/welcome-page.component';
+import { MaskAnswerPipe } from './pipes/mask-answer.pipe';
 
 const materialModules = [
   MatFormFieldModule,
@@ -31,7 +32,8 @@ const materialModules = [
     VerbsListComponent,
     VerbsComponent,
     VerbsFilterPipe,
-    WelcomePageComponent
+    WelcomePageComponent,
+    MaskAnswerPipe
   ],
   imports: [
     BrowserModule,

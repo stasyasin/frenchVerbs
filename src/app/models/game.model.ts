@@ -12,7 +12,6 @@ export enum MODE {
   CONDITIONEL = 'conditionnel',
   SUBJONCTIF = 'subjonctif',
   IMPERATIF = 'imperatif',
-  GERONDIF = 'gerondif',
 }
 
 export enum TIME {

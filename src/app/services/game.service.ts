@@ -63,4 +63,15 @@ export class GameService {
     console.log('asd timeKey', this.timeKey);
     console.log('asd timePlaying', this.timePlaying);
   }
+
+  public checkRoundResult(selectedAnswer: string): void {
+    const correctAnswer = this.playingVerb[this.playingVerbKey][this.modePlaying][this.timeKey][this.pronounPlaying];
+    if (selectedAnswer === correctAnswer) {
+      this.correctAnswers++;
+      this.totalAnswers++;
+    } else {
+      this.totalAnswers++;
+    }
+    this.playRound();
+  }
 }

@@ -13,9 +13,11 @@
       <p>
       <p>pronoun to play - {{gameService.pronounPlaying}}
       <p> answers -
-      <div class="answer-option" *ngFor="let option of getAnswerOptions()">
+      <div class="answer-option" *ngFor="let option of getAnswerOptions()" (click)="gameService.checkRoundResult(option)">
         {{option}}
       </div>
+      <div>Correct answers - {{gameService.correctAnswers}}</div>
+      <div>total answers - {{gameService.totalAnswers}}</div>
 
     </div>
   </div>
